@@ -48,11 +48,11 @@
 			
 			const regex = new RegExp(`\\*{1,2}${correct_word}\\*{1,2}`, 'g');
     
-			const moded_sentence sentence.replace(regex, '_'.repeat(correct_word.length));
+			const moded_sentence = sentence.replace(regex, '_'.repeat(correct_word.length));
 			
 			var incorrect = randomSentenceObj.incorrectWords;
 			const randomIndex = Math.floor(Math.random() * (randomSentenceObj.incorrectWords.length + 1));
-			incorrect.splice(randomIndex, 0, element);
+			incorrect.splice(randomIndex, 0, correct_word);
 			
 			// Return the sentence and the correct word
 			return {
