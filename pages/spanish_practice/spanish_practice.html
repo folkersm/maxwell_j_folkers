@@ -51,7 +51,7 @@
 			const moded_sentence sentence.replace(regex, '_'.repeat(correct_word.length));
 			
 			var incorrect = randomSentenceObj.incorrectWords;
-			const randomIndex = Math.floor(Math.random() * (randomIndex.length + 1));
+			const randomIndex = Math.floor(Math.random() * (randomSentenceObj.incorrectWords.length + 1));
 			incorrect.splice(randomIndex, 0, element);
 			
 			// Return the sentence and the correct word
