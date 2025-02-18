@@ -86,27 +86,28 @@
         function startGame() {
             gameState.currentIndex = 0;
             gameState.score = 0;
-            gameState.selectedQuestions = getRandomQuestions(gameState.selectedSentenceCount);
+			gameState.curQuestion = getRandomSentence();
+            gameState.questionsCount = selectedSentenceCount;
             showQuestion();
         }
 
-        function getRandomQuestions(count) {
+        function getRandomQuestions(count) { <!--what this do?
 
             let shuffled = sentences.sort(() => 0.5 - Math.random());
             return shuffled.slice(0, count);
         }
 
         function showQuestion() {
-            if (gameState.currentIndex >= gameState.selectedQuestions.length) {
+            if (gameState.currentIndex >= gameState.questionsCount) {
                 showFinalScore();
                 return;
             }
 
-            let question = getRandomSentence()
+            let question = gameState.curQuestion;
 
             let gameContainer = document.getElementById('gameContainer');
             gameContainer.innerHTML = `
-                <h2 class="text-xl font-bold">Question ${gameState.currentIndex + 1} / ${gameState.selectedQuestions.length}</h2>
+                <h2 class="text-xl font-bold">Question ${gameState.currentIndex + 1} / ${gameState.questionsCount}</h2>
                 <p class="text-lg my-4">${question.sentence}</p>
                 <div id="options" class="space-y-2"></div>
                 <p id="feedback" class="text-lg font-bold mt-4"></p>
@@ -124,7 +125,7 @@
         }
 
         function checkAnswer(selected) {
-            let question = gameState.selectedQuestions[gameState.currentIndex];
+            let question = gameState.curQuestion;
             let feedback = document.getElementById('feedback');
             let nextBtn = document.getElementById('nextBtn');
 
@@ -140,6 +141,7 @@
             nextBtn.classList.remove("hidden");
             nextBtn.onclick = () => {
                 gameState.currentIndex++;
+				gameState.curQuestion = getRandomSentence();
                 showQuestion();
             };
         }
@@ -148,7 +150,7 @@
             let gameContainer = document.getElementById('gameContainer');
             gameContainer.innerHTML = `
                 <h2 class="text-2xl font-bold">Game Over!</h2>
-                <p class="text-lg my-4">Final Score: ${gameState.score} / ${gameState.selectedQuestions.length}</p>
+                <p class="text-lg my-4">Final Score: ${gameState.score} / ${gameState.questionsCount}</p>
                 <button class="bg-green-500 text-white px-4 py-2 mt-4 rounded" onclick="showSelectionScreen()">Play Again</button>
             `;
         }
