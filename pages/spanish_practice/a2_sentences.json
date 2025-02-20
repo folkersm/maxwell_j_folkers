@@ -1,0 +1,5170 @@
+{
+    "Friends and Dating": [
+        {
+            "sentence": "Cuando era niño, siempre soñaba con **viajar** a otros países.",
+            "correctWord": "viajar",
+            "incorrectWords": [
+                "canto",
+                "comida",
+                "siesta"
+            ]
+        },
+        {
+            "sentence": "Mis **padres** siempre me apoyaron en mis decisiones.",
+            "correctWord": "padres",
+            "incorrectWords": [
+                "zapato",
+                "agua",
+                "amarillo"
+            ]
+        },
+        {
+            "sentence": "En la **escuela**, aprendí muchas cosas importantes.",
+            "correctWord": "escuela",
+            "incorrectWords": [
+                "azul",
+                "correr",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Mi primer **trabajo** fue en una tienda de ropa.",
+            "correctWord": "trabajo",
+            "incorrectWords": [
+                "cantar",
+                "rojo",
+                "gato"
+            ]
+        },
+        {
+            "sentence": "Me **enamoré** por primera vez cuando tenía quince años.",
+            "correctWord": "enamoré",
+            "incorrectWords": [
+                "coche",
+                "si",
+                "árbol"
+            ]
+        },
+        {
+            "sentence": "Decidí **estudiar** medicina en la universidad.",
+            "correctWord": "estudiar",
+            "incorrectWords": [
+                "porque",
+                "cama",
+                "verde"
+            ]
+        },
+        {
+            "sentence": "Conocí a mi mejor **amigo** durante un viaje a España.",
+            "correctWord": "amigo",
+            "incorrectWords": [
+                "con",
+                "alto",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "Me **casé** con el amor de mi vida hace diez años.",
+            "correctWord": "casé",
+            "incorrectWords": [
+                "siempre",
+                "pan",
+                "dormir"
+            ]
+        },
+        {
+            "sentence": "Tenemos dos **hijos** maravillosos.",
+            "correctWord": "hijos",
+            "incorrectWords": [
+                "pero",
+                "sol",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "He **vivido** en diferentes ciudades a lo largo de mi vida.",
+            "correctWord": "vivido",
+            "incorrectWords": [
+                "muy",
+                "agua",
+                "ventana"
+            ]
+        },
+        {
+            "sentence": "Mi mayor **éxito** fue completar mi doctorado.",
+            "correctWord": "éxito",
+            "incorrectWords": [
+                "bailar",
+                "ella",
+                "caliente"
+            ]
+        },
+        {
+            "sentence": "También he tenido **fracasos** que me han enseñado mucho.",
+            "correctWord": "fracasos",
+            "incorrectWords": [
+                "yo",
+                "pero",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Me encanta pasar tiempo **con** mi familia.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "mesa",
+                "cantar",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Mi **hobby** favorito es leer novelas históricas.",
+            "correctWord": "hobby",
+            "incorrectWords": [
+                "correr",
+                "bajo",
+                "azul"
+            ]
+        },
+        {
+            "sentence": "Siempre he sido una persona **optimista**.",
+            "correctWord": "optimista",
+            "incorrectWords": [
+                "en",
+                "si",
+                "zapatos"
+            ]
+        },
+        {
+            "sentence": "He aprendido a **valorar** las pequeñas cosas de la vida.",
+            "correctWord": "valorar",
+            "incorrectWords": [
+                "amarillo",
+                "de",
+                "niño"
+            ]
+        },
+        {
+            "sentence": "Mi **abuela** siempre me contaba cuentos antes de dormir.",
+            "correctWord": "abuela",
+            "incorrectWords": [
+                "correr",
+                "muy",
+                "casa"
+            ]
+        },
+        {
+            "sentence": "Me **mudé** a esta ciudad hace cinco años.",
+            "correctWord": "mudé",
+            "incorrectWords": [
+                "en",
+                "libro",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "He viajado **por** Europa y Asia.",
+            "correctWord": "por",
+            "incorrectWords": [
+                "pero",
+                "comer",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Me gustaría escribir un **libro** sobre mi vida.",
+            "correctWord": "libro",
+            "incorrectWords": [
+                "si",
+                "bailar",
+                "ella"
+            ]
+        },
+        {
+            "sentence": "He **superado** muchos obstáculos a lo largo de mi vida.",
+            "correctWord": "superado",
+            "incorrectWords": [
+                "porque",
+                "sol",
+                "zapatos"
+            ]
+        },
+        {
+            "sentence": "Ahora estoy jubilado y disfruto de mi **tiempo** libre.",
+            "correctWord": "tiempo",
+            "incorrectWords": [
+                "azul",
+                "mesa",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Siempre he tenido un **gran** amor por la música.",
+            "correctWord": "gran",
+            "incorrectWords": [
+                "cantar",
+                "bajo",
+                "ella"
+            ]
+        },
+        {
+            "sentence": "La **amistad** es muy importante para mí.",
+            "correctWord": "amistad",
+            "incorrectWords": [
+                "en",
+                "rápido",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "He aprendido mucho de mis **errores**.",
+            "correctWord": "errores",
+            "incorrectWords": [
+                "porque",
+                "pero",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Mi familia siempre ha sido mi **prioridad**.",
+            "correctWord": "prioridad",
+            "incorrectWords": [
+                "bailar",
+                "en",
+                "casa"
+            ]
+        },
+        {
+            "sentence": "Me siento **agradecido** por todo lo que tengo.",
+            "correctWord": "agradecido",
+            "incorrectWords": [
+                "muy",
+                "correr",
+                "ella"
+            ]
+        },
+        {
+            "sentence": "Siempre he intentado **ser** una buena persona.",
+            "correctWord": "ser",
+            "incorrectWords": [
+                "mesa",
+                "azul",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "Estoy **orgulloso** de mis logros.",
+            "correctWord": "orgulloso",
+            "incorrectWords": [
+                "porque",
+                "siempre",
+                "zapatos"
+            ]
+        },
+        {
+            "sentence": "Mi vida ha sido una **aventura** increíble.",
+            "correctWord": "aventura",
+            "incorrectWords": [
+                "pero",
+                "cantar",
+                "alto"
+            ]
+        }
+    ],
+    "Food": [
+        {
+            "sentence": "Yo siempre **recibo** **correos** importantes de mi familia.",
+            "correctWord": "recibo",
+            "incorrectWords": [
+                "como",
+                "estoy",
+                "hago"
+            ]
+        },
+        {
+            "sentence": "Necesito un **sello** **para** enviar esta carta a España.",
+            "correctWord": "sello",
+            "incorrectWords": [
+                "mesa",
+                "libro",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Ella está **escribiendo** **una** postal para su amiga.",
+            "correctWord": "escribiendo",
+            "incorrectWords": [
+                "comiendo",
+                "viendo",
+                "hablando"
+            ]
+        },
+        {
+            "sentence": "El cartero **entrega** **el** correo cada mañana a las diez.",
+            "correctWord": "entrega",
+            "incorrectWords": [
+                "pregunta",
+                "busca",
+                "come"
+            ]
+        },
+        {
+            "sentence": "Podemos **hablar** **por** teléfono si prefieres.",
+            "correctWord": "hablar",
+            "incorrectWords": [
+                "comer",
+                "vivir",
+                "correr"
+            ]
+        },
+        {
+            "sentence": "He enviado **un** **paquete** grande a mi hermana.",
+            "correctWord": "paquete",
+            "incorrectWords": [
+                "mesa",
+                "libro",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "La **comunicación** **es** muy importante en una relación.",
+            "correctWord": "comunicación",
+            "incorrectWords": [
+                "cantar",
+                "bailar",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Prefiero **enviar** **mensajes** de texto que llamar.",
+            "correctWord": "enviar",
+            "incorrectWords": [
+                "comer",
+                "bailar",
+                "vivir"
+            ]
+        },
+        {
+            "sentence": "El **buzón** **está** lleno de cartas y revistas.",
+            "correctWord": "buzón",
+            "incorrectWords": [
+                "mesa",
+                "silla",
+                "cama"
+            ]
+        },
+        {
+            "sentence": "Ella **usa** **el** correo electrónico para trabajar.",
+            "correctWord": "usa",
+            "incorrectWords": [
+                "soy",
+                "eres",
+                "es"
+            ]
+        },
+        {
+            "sentence": "Necesito **comprar** **más** sellos en la oficina de correos.",
+            "correctWord": "comprar",
+            "incorrectWords": [
+                "estoy",
+                "eres",
+                "ser"
+            ]
+        },
+        {
+            "sentence": "Tenemos **que** **esperar** la respuesta a nuestra carta.",
+            "correctWord": "que",
+            "incorrectWords": [
+                "el",
+                "la",
+                "un"
+            ]
+        },
+        {
+            "sentence": "Me gusta **la** **comunicación** cara a cara.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "un",
+                "unos"
+            ]
+        },
+        {
+            "sentence": "La **dirección** **en** el sobre es incorrecta.",
+            "correctWord": "dirección",
+            "incorrectWords": [
+                "libro",
+                "coche",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "El **cartero** **dejó** el paquete en la puerta.",
+            "correctWord": "cartero",
+            "incorrectWords": [
+                "mesa",
+                "silla",
+                "cama"
+            ]
+        },
+        {
+            "sentence": "Estamos **usando** **una** nueva aplicación para comunicarnos.",
+            "correctWord": "usando",
+            "incorrectWords": [
+                "comiendo",
+                "viendo",
+                "hablando"
+            ]
+        },
+        {
+            "sentence": "Por favor, **dime** **tu** número de teléfono.",
+            "correctWord": "dime",
+            "incorrectWords": [
+                "como",
+                "hago",
+                "estoy"
+            ]
+        },
+        {
+            "sentence": "La **conversación** **fue** muy interesante e informativa.",
+            "correctWord": "conversación",
+            "incorrectWords": [
+                "libro",
+                "coche",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Ella está **aprendiendo** **a** hablar español.",
+            "correctWord": "aprendiendo",
+            "incorrectWords": [
+                "comiendo",
+                "viendo",
+                "hablando"
+            ]
+        },
+        {
+            "sentence": "No puedo **entender** **lo** que estás diciendo.",
+            "correctWord": "entender",
+            "incorrectWords": [
+                "comer",
+                "vivir",
+                "correr"
+            ]
+        },
+        {
+            "sentence": "Envío **correos** **electrónicos** a mis amigos todos los días.",
+            "correctWord": "correos",
+            "incorrectWords": [
+                "coches",
+                "libros",
+                "mesas"
+            ]
+        },
+        {
+            "sentence": "La **oficina** **de** correos está cerrada los domingos.",
+            "correctWord": "oficina",
+            "incorrectWords": [
+                "libro",
+                "coche",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Es **importante** **tener** buena comunicación con tus compañeros.",
+            "correctWord": "importante",
+            "incorrectWords": [
+                "pequeño",
+                "grande",
+                "verde"
+            ]
+        },
+        {
+            "sentence": "Puedo **recibir** **mensajes** de texto en mi teléfono.",
+            "correctWord": "recibir",
+            "incorrectWords": [
+                "comer",
+                "bailar",
+                "vivir"
+            ]
+        },
+        {
+            "sentence": "La **carta** **llegó** tarde por la tormenta.",
+            "correctWord": "carta",
+            "incorrectWords": [
+                "libro",
+                "coche",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "El **teléfono** **es** una herramienta de comunicación importante.",
+            "correctWord": "teléfono",
+            "incorrectWords": [
+                "coche",
+                "libro",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Ella **prefiere** **comunicarse** por correo electrónico.",
+            "correctWord": "prefiere",
+            "incorrectWords": [
+                "como",
+                "estoy",
+                "hago"
+            ]
+        },
+        {
+            "sentence": "El **sobre** **está** vacío, no hay carta.",
+            "correctWord": "sobre",
+            "incorrectWords": [
+                "mesa",
+                "silla",
+                "cama"
+            ]
+        },
+        {
+            "sentence": "Tenemos **que** **verificar** la dirección antes de enviar la carta.",
+            "correctWord": "que",
+            "incorrectWords": [
+                "el",
+                "la",
+                "un"
+            ]
+        },
+        {
+            "sentence": "Recibí **un** **correo** interesante sobre un nuevo trabajo.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "el",
+                "la",
+                "unos"
+            ]
+        }
+    ],
+    "Religion and Politics": [
+        {
+            "sentence": "Normalmente, me *despierto* **a** las siete de la mañana.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "con",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Después, *yo* **me** levanto y voy al baño.",
+            "correctWord": "me",
+            "incorrectWords": [
+                "te",
+                "se",
+                "le"
+            ]
+        },
+        {
+            "sentence": "Luego, *me* **lavo** la cara y los dientes.",
+            "correctWord": "lavo",
+            "incorrectWords": [
+                "lavan",
+                "lavas",
+                "lava"
+            ]
+        },
+        {
+            "sentence": "Después, *yo* **me** visto para el trabajo.",
+            "correctWord": "me",
+            "incorrectWords": [
+                "te",
+                "se",
+                "le"
+            ]
+        },
+        {
+            "sentence": "Normalmente, *como* **desayuno** rápido: café y pan.",
+            "correctWord": "desayuno",
+            "incorrectWords": [
+                "cena",
+                "almuerzo",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "Después *de* **desayunar**, salgo de casa.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "para",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Voy *al* **trabajo** en autobús.",
+            "correctWord": "trabajo",
+            "incorrectWords": [
+                "escuela",
+                "casa",
+                "cine"
+            ]
+        },
+        {
+            "sentence": "Empiezo *a* **trabajar** a las nueve.",
+            "correctWord": "trabajar",
+            "incorrectWords": [
+                "comiendo",
+                "bebido",
+                "leyendo"
+            ]
+        },
+        {
+            "sentence": "Trabajo *en* **una** oficina grande.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "un",
+                "los"
+            ]
+        },
+        {
+            "sentence": "Almuerzo *con* **mis** compañeros de trabajo.",
+            "correctWord": "mis",
+            "incorrectWords": [
+                "sus",
+                "tus",
+                "las"
+            ]
+        },
+        {
+            "sentence": "Normalmente, *como* **una** ensalada o un bocadillo.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "un",
+                "los"
+            ]
+        },
+        {
+            "sentence": "Después *del* **almuerzo**, vuelvo a trabajar.",
+            "correctWord": "almuerzo",
+            "incorrectWords": [
+                "desayuno",
+                "cena",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "Termino *de* **trabajar** a las cinco.",
+            "correctWord": "trabajar",
+            "incorrectWords": [
+                "cantar",
+                "comer",
+                "bailar"
+            ]
+        },
+        {
+            "sentence": "Vuelvo *a* **casa** en autobús.",
+            "correctWord": "casa",
+            "incorrectWords": [
+                "trabajo",
+                "cine",
+                "playa"
+            ]
+        },
+        {
+            "sentence": "Cuando *llego* **a** casa, me relajo.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "por",
+                "de"
+            ]
+        },
+        {
+            "sentence": "A *veces*, **veo** la televisión.",
+            "correctWord": "veo",
+            "incorrectWords": [
+                "ve",
+                "ven",
+                "ves"
+            ]
+        },
+        {
+            "sentence": "Preparo *la* **cena** para mi familia.",
+            "correctWord": "cena",
+            "incorrectWords": [
+                "desayuno",
+                "almuerzo",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "Comemos *todos* **juntos** en la mesa.",
+            "correctWord": "juntos",
+            "incorrectWords": [
+                "solo",
+                "separados",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "Después *de* **cenar**, lavo los platos.",
+            "correctWord": "cenar",
+            "incorrectWords": [
+                "desayunar",
+                "almorzar",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Normalmente, *leo* **un** libro antes de dormir.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "la",
+                "los",
+                "el"
+            ]
+        },
+        {
+            "sentence": "Me *gusta* **leer** novelas de misterio.",
+            "correctWord": "leer",
+            "incorrectWords": [
+                "correr",
+                "escribir",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Me *acuesto* **tarde** los fines de semana.",
+            "correctWord": "tarde",
+            "incorrectWords": [
+                "temprano",
+                "nunca",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Antes *de* **dormir**, me cepillo los dientes.",
+            "correctWord": "dormir",
+            "incorrectWords": [
+                "cantar",
+                "comer",
+                "bailar"
+            ]
+        },
+        {
+            "sentence": "Me *duermo* **fácilmente** porque estoy cansado.",
+            "correctWord": "fácilmente",
+            "incorrectWords": [
+                "difícilmente",
+                "rápido",
+                "mal"
+            ]
+        },
+        {
+            "sentence": "Los *fines* **de** semana, me gusta relajarme.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "A *veces*, **voy** al cine con amigos.",
+            "correctWord": "voy",
+            "incorrectWords": [
+                "va",
+                "vamos",
+                "van"
+            ]
+        },
+        {
+            "sentence": "También *me* **gusta** ir al parque y caminar.",
+            "correctWord": "gusta",
+            "incorrectWords": [
+                "gustas",
+                "gustan",
+                "gusto"
+            ]
+        },
+        {
+            "sentence": "Preparo *comida* **especial** los domingos.",
+            "correctWord": "especial",
+            "incorrectWords": [
+                "aburrida",
+                "rápida",
+                "sencilla"
+            ]
+        },
+        {
+            "sentence": "Visito *a* **mi** familia los domingos por la tarde.",
+            "correctWord": "mi",
+            "incorrectWords": [
+                "su",
+                "tu",
+                "la"
+            ]
+        },
+        {
+            "sentence": "Me *acuesto* **pronto** el domingo para empezar la semana bien.",
+            "correctWord": "pronto",
+            "incorrectWords": [
+                "tarde",
+                "nunca",
+                "siempre"
+            ]
+        }
+    ],
+    "Holidays": [
+        {
+            "sentence": "Mi *madre* **es** muy cariñosa y siempre me apoya.",
+            "correctWord": "madre",
+            "incorrectWords": [
+                "zapato",
+                "comer",
+                "bailar"
+            ]
+        },
+        {
+            "sentence": "Mis *abuelos* **viven** en un pueblo pequeño en las montañas.",
+            "correctWord": "viven",
+            "incorrectWords": [
+                "gato",
+                "sobre",
+                "durante"
+            ]
+        },
+        {
+            "sentence": "Tengo *dos* **hermanos**, uno mayor y otro menor.",
+            "correctWord": "dos",
+            "incorrectWords": [
+                "libro",
+                "con",
+                "triste"
+            ]
+        },
+        {
+            "sentence": "Mi *tío* **es** el hermano de mi madre.",
+            "correctWord": "tío",
+            "incorrectWords": [
+                "cantar",
+                "desde",
+                "feliz"
+            ]
+        },
+        {
+            "sentence": "Mi *prima* **es** muy divertida y siempre me hace reír.",
+            "correctWord": "prima",
+            "incorrectWords": [
+                "correr",
+                "hacia",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Mi *padre* **trabaja** como ingeniero en una empresa grande.",
+            "correctWord": "padre",
+            "incorrectWords": [
+                "con",
+                "arriba",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Mi *familia* **es** muy importante para mí.",
+            "correctWord": "familia",
+            "incorrectWords": [
+                "durante",
+                "zapato",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Nosotros *siempre* **celebramos** la Navidad juntos.",
+            "correctWord": "siempre",
+            "incorrectWords": [
+                "contra",
+                "es",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "Mi *abuela* **cocina** muy bien; su paella es deliciosa.",
+            "correctWord": "abuela",
+            "incorrectWords": [
+                "feliz",
+                "en",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "Me *gusta* **pasar** tiempo con mi familia.",
+            "correctWord": "gusta",
+            "incorrectWords": [
+                "arriba",
+                "corre",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "Mi *hermana* **tiene** el pelo rubio y los ojos azules.",
+            "correctWord": "hermana",
+            "incorrectWords": [
+                "bailar",
+                "en",
+                "triste"
+            ]
+        },
+        {
+            "sentence": "Mi *sobrino* **es** muy pequeño y le gusta jugar con bloques.",
+            "correctWord": "sobrino",
+            "incorrectWords": [
+                "comer",
+                "en",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Vamos *a* **visitar** a nuestros parientes el próximo mes.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "libro",
+                "comer",
+                "feliz"
+            ]
+        },
+        {
+            "sentence": "Mi *cuñado* **es** muy amable y servicial.",
+            "correctWord": "cuñado",
+            "incorrectWords": [
+                "bailar",
+                "contra",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "La *familia* **se** reúne para cenar cada domingo.",
+            "correctWord": "se",
+            "incorrectWords": [
+                "libro",
+                "comer",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Tengo *mucho* **cariño** por mi familia.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "alto",
+                "comer",
+                "corre"
+            ]
+        },
+        {
+            "sentence": "Compartimos *muchas* **historias** durante las reuniones familiares.",
+            "correctWord": "muchas",
+            "incorrectWords": [
+                "en",
+                "cantar",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Mi *madrastra* **es** muy buena persona.",
+            "correctWord": "madrastra",
+            "incorrectWords": [
+                "zapato",
+                "con",
+                "arriba"
+            ]
+        },
+        {
+            "sentence": "El *apoyo* **de** mi familia es incondicional.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "comer",
+                "cantar",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Estamos *muy* **orgullosos** de nuestros hijos.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "en",
+                "cantar",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Mi *esposo* **es** un buen cocinero.",
+            "correctWord": "esposo",
+            "incorrectWords": [
+                "en",
+                "correr",
+                "feliz"
+            ]
+        },
+        {
+            "sentence": "Nuestra *casa* **siempre** está llena de amor.",
+            "correctWord": "casa",
+            "incorrectWords": [
+                "en",
+                "cantar",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Mi *hijo* **estudia** medicina en la universidad.",
+            "correctWord": "hijo",
+            "incorrectWords": [
+                "arriba",
+                "bailar",
+                "feliz"
+            ]
+        },
+        {
+            "sentence": "La *unión* **familiar** es importante para nosotros.",
+            "correctWord": "familiar",
+            "incorrectWords": [
+                "comer",
+                "feliz",
+                "en"
+            ]
+        },
+        {
+            "sentence": "Siempre *recordaré* **los** buenos momentos con mi familia.",
+            "correctWord": "los",
+            "incorrectWords": [
+                "libro",
+                "corre",
+                "bailar"
+            ]
+        },
+        {
+            "sentence": "Tenemos *una* **mascota** que es parte de la familia.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "feliz",
+                "bailar",
+                "corre"
+            ]
+        },
+        {
+            "sentence": "Mi *nuera* **es** una gran persona.",
+            "correctWord": "nuera",
+            "incorrectWords": [
+                "contra",
+                "bailar",
+                "en"
+            ]
+        },
+        {
+            "sentence": "Las *tradiciones* **familiares** son importantes para nosotros.",
+            "correctWord": "familiares",
+            "incorrectWords": [
+                "en",
+                "cantar",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "Mi *nieto* **es** muy inteligente.",
+            "correctWord": "nieto",
+            "incorrectWords": [
+                "comer",
+                "en",
+                "arriba"
+            ]
+        },
+        {
+            "sentence": "Vamos *a* **la** playa con toda la familia.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "libro",
+                "corre",
+                "comer"
+            ]
+        }
+    ],
+    "Myths and Paranormal": [
+        {
+            "sentence": "Mi hermana **trabaja** en un hospital como enfermera.",
+            "correctWord": "trabaja",
+            "incorrectWords": [
+                "comes",
+                "eres",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "Ellos **necesitan** un fontanero urgente para arreglar la tubería.",
+            "correctWord": "necesitan",
+            "incorrectWords": [
+                "puedo",
+                "sabes",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "Mi padre es **ingeniero** y trabaja en una fábrica de coches.",
+            "correctWord": "ingeniero",
+            "incorrectWords": [
+                "mesa",
+                "verde",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "El profesor **explica** la lección con mucha claridad.",
+            "correctWord": "explica",
+            "incorrectWords": [
+                "comer",
+                "soy",
+                "fuiste"
+            ]
+        },
+        {
+            "sentence": "Ella quiere **ser** una veterinaria porque ama los animales.",
+            "correctWord": "ser",
+            "incorrectWords": [
+                "tener",
+                "hago",
+                "estoy"
+            ]
+        },
+        {
+            "sentence": "Juan **busca** un trabajo a tiempo parcial los fines de semana.",
+            "correctWord": "busca",
+            "incorrectWords": [
+                "bebo",
+                "soy",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "El restaurante **contrató** a un nuevo chef muy talentoso.",
+            "correctWord": "contrató",
+            "incorrectWords": [
+                "hablo",
+                "fuiste",
+                "eres"
+            ]
+        },
+        {
+            "sentence": "Mi amigo es **músico** y toca la guitarra en un bar.",
+            "correctWord": "músico",
+            "incorrectWords": [
+                "grande",
+                "azul",
+                "feliz"
+            ]
+        },
+        {
+            "sentence": "¿Tienes experiencia **en** este tipo de trabajo?",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Ella está **estudiando** para ser abogada.",
+            "correctWord": "estudiando",
+            "incorrectWords": [
+                "comer",
+                "fui",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "El **jefe** está muy contento con su trabajo.",
+            "correctWord": "jefe",
+            "incorrectWords": [
+                "mesa",
+                "verde",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Necesito **más** información sobre el puesto.",
+            "correctWord": "más",
+            "incorrectWords": [
+                "menos",
+                "nunca",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Trabajar **como** voluntario es muy gratificante.",
+            "correctWord": "como",
+            "incorrectWords": [
+                "por",
+                "para",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "Mi sueño es **tener** mi propia empresa.",
+            "correctWord": "tener",
+            "incorrectWords": [
+                "soy",
+                "hago",
+                "estar"
+            ]
+        },
+        {
+            "sentence": "El **salario** es muy importante para mí.",
+            "correctWord": "salario",
+            "incorrectWords": [
+                "verde",
+                "alto",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Necesito **enviar** mi currículum hoy.",
+            "correctWord": "enviar",
+            "incorrectWords": [
+                "comer",
+                "soy",
+                "fui"
+            ]
+        },
+        {
+            "sentence": "El **trabajo** es muy duro, pero me gusta.",
+            "correctWord": "trabajo",
+            "incorrectWords": [
+                "gato",
+                "azul",
+                "poco"
+            ]
+        },
+        {
+            "sentence": "Ella está **contenta** con su nuevo empleo.",
+            "correctWord": "contenta",
+            "incorrectWords": [
+                "rapido",
+                "alto",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Vamos **a** la oficina después del café.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "de",
+                "en",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Él **es** un excelente programador.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "tener",
+                "hago",
+                "ir"
+            ]
+        },
+        {
+            "sentence": "¿Qué **tipo** de trabajo buscas?",
+            "correctWord": "tipo",
+            "incorrectWords": [
+                "azul",
+                "poco",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Estoy **aprendiendo** un nuevo idioma para mi trabajo.",
+            "correctWord": "aprendiendo",
+            "incorrectWords": [
+                "comer",
+                "fui",
+                "soy"
+            ]
+        },
+        {
+            "sentence": "Mi **compañero** de trabajo es muy simpático.",
+            "correctWord": "compañero",
+            "incorrectWords": [
+                "alto",
+                "verde",
+                "poco"
+            ]
+        },
+        {
+            "sentence": "Trabajo **para** una empresa internacional.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "a",
+                "de",
+                "en"
+            ]
+        },
+        {
+            "sentence": "El **horario** de trabajo es de 9 a 5.",
+            "correctWord": "horario",
+            "incorrectWords": [
+                "gato",
+                "azul",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "Ella **ayuda** a sus compañeros con sus tareas.",
+            "correctWord": "ayuda",
+            "incorrectWords": [
+                "soy",
+                "fui",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "Estoy **buscando** una oportunidad para crecer profesionalmente.",
+            "correctWord": "buscando",
+            "incorrectWords": [
+                "comer",
+                "soy",
+                "fuiste"
+            ]
+        },
+        {
+            "sentence": "Es importante tener **buenas** habilidades de comunicación.",
+            "correctWord": "buenas",
+            "incorrectWords": [
+                "alto",
+                "verde",
+                "gato"
+            ]
+        },
+        {
+            "sentence": "Él está **preparando** la presentación para la reunión.",
+            "correctWord": "preparando",
+            "incorrectWords": [
+                "comer",
+                "soy",
+                "fui"
+            ]
+        },
+        {
+            "sentence": "Mi oficina está **cerca** del centro de la ciudad.",
+            "correctWord": "cerca",
+            "incorrectWords": [
+                "gato",
+                "azul",
+                "poco"
+            ]
+        }
+    ],
+    "Pastimes and Hobbies": [
+        {
+            "sentence": "Los niños **asisten** **a** *desde* *con* *por* la escuela todos los días.",
+            "correctWord": "asisten",
+            "incorrectWords": [
+                "desde",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "La profesora está **enseñando** **matemáticas** *inglés* *arte* *historia* en la clase.",
+            "correctWord": "matemáticas",
+            "incorrectWords": [
+                "inglés",
+                "arte",
+                "historia"
+            ]
+        },
+        {
+            "sentence": "Necesito **un** **lápiz** *libro* *cuaderno* *goma* para escribir.",
+            "correctWord": "lápiz",
+            "incorrectWords": [
+                "libro",
+                "cuaderno",
+                "goma"
+            ]
+        },
+        {
+            "sentence": "Ella **estudia** **mucho** *poco* *regular* *tarde* para el examen.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "poco",
+                "regular",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "El estudiante **respondió** **correctamente** *rápidamente* *fácilmente* *tontamente* a la pregunta.",
+            "correctWord": "correctamente",
+            "incorrectWords": [
+                "rápidamente",
+                "fácilmente",
+                "tontamente"
+            ]
+        },
+        {
+            "sentence": "La biblioteca **tiene** **muchos** *poco* *uno* *ninguno* libros interesantes.",
+            "correctWord": "muchos",
+            "incorrectWords": [
+                "poco",
+                "uno",
+                "ninguno"
+            ]
+        },
+        {
+            "sentence": "Es **importante** **estudiar** *comer* *dormir* *jugar* para tener éxito.",
+            "correctWord": "estudiar",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "jugar"
+            ]
+        },
+        {
+            "sentence": "El examen **es** **difícil** *fácil* *interesante* *aburrido* para algunos estudiantes.",
+            "correctWord": "difícil",
+            "incorrectWords": [
+                "fácil",
+                "interesante",
+                "aburrido"
+            ]
+        },
+        {
+            "sentence": "Los alumnos **escriben** **en** *a* *por* *para* sus cuadernos.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "por",
+                "para"
+            ]
+        },
+        {
+            "sentence": "La escuela **organiza** **eventos** *fiestas* *reuniones* *viajes* para los estudiantes.",
+            "correctWord": "eventos",
+            "incorrectWords": [
+                "fiestas",
+                "reuniones",
+                "viajes"
+            ]
+        },
+        {
+            "sentence": "El profesor **explica** **la** *el* *unos* *las* lección claramente.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "unos",
+                "las"
+            ]
+        },
+        {
+            "sentence": "La clase **empieza** **a** *en* *con* *para* las nueve de la mañana.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "con",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Necesito **hablar** **con** *a* *por* *en* el director.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "a",
+                "por",
+                "en"
+            ]
+        },
+        {
+            "sentence": "Mi **asignatura** **favorita** *aburrida* *difícil* *fácil* es la historia.",
+            "correctWord": "favorita",
+            "incorrectWords": [
+                "aburrida",
+                "difícil",
+                "fácil"
+            ]
+        },
+        {
+            "sentence": "Los estudiantes **leen** **libros** *periódicos* *revistas* *cartas* en la biblioteca.",
+            "correctWord": "libros",
+            "incorrectWords": [
+                "periódicos",
+                "revistas",
+                "cartas"
+            ]
+        },
+        {
+            "sentence": "Ella **está** **aprendiendo** *leyendo* *escribiendo* *comiendo* español.",
+            "correctWord": "aprendiendo",
+            "incorrectWords": [
+                "leyendo",
+                "escribiendo",
+                "comiendo"
+            ]
+        },
+        {
+            "sentence": "El colegio **tiene** **un** *una* *unos* *unas* gimnasio grande.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "una",
+                "unos",
+                "unas"
+            ]
+        },
+        {
+            "sentence": "El **profesor** **es** *está* *tiene* *hace* muy simpático.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "está",
+                "tiene",
+                "hace"
+            ]
+        },
+        {
+            "sentence": "La alumna **siempre** **pregunta** *responde* *habla* *canta* en clase.",
+            "correctWord": "pregunta",
+            "incorrectWords": [
+                "responde",
+                "habla",
+                "canta"
+            ]
+        },
+        {
+            "sentence": "El curso **termina** **en** *a* *por* *con* junio.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "por",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Necesito **una** **calculadora** *regla* *compás* *escuadra* para la clase de matemáticas.",
+            "correctWord": "calculadora",
+            "incorrectWords": [
+                "regla",
+                "compás",
+                "escuadra"
+            ]
+        },
+        {
+            "sentence": "Es **necesario** **llegar** *comer* *correr* *mirar* a tiempo a la escuela.",
+            "correctWord": "llegar",
+            "incorrectWords": [
+                "comer",
+                "correr",
+                "mirar"
+            ]
+        },
+        {
+            "sentence": "Los **padres** **ayudan** *comen* *bailan* *duermen* a sus hijos con la tarea.",
+            "correctWord": "ayudan",
+            "incorrectWords": [
+                "comen",
+                "bailan",
+                "duermen"
+            ]
+        },
+        {
+            "sentence": "La **escuela** **ofrece** *come* *duerme* *salta* muchos cursos diferentes.",
+            "correctWord": "ofrece",
+            "incorrectWords": [
+                "come",
+                "duerme",
+                "salta"
+            ]
+        },
+        {
+            "sentence": "El estudiante **tiene** **buenas** *malas* *grandes* *pequeñas* notas.",
+            "correctWord": "buenas",
+            "incorrectWords": [
+                "malas",
+                "grandes",
+                "pequeñas"
+            ]
+        },
+        {
+            "sentence": "La **clase** **es** *está* *tiene* *hace* muy interesante hoy.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "está",
+                "tiene",
+                "hace"
+            ]
+        },
+        {
+            "sentence": "Él **estudia** **para** *a* *en* *con* ser médico.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "a",
+                "en",
+                "con"
+            ]
+        },
+        {
+            "sentence": "La universidad **está** **cerca** *lejos* *dentro* *encima* de mi casa.",
+            "correctWord": "cerca",
+            "incorrectWords": [
+                "lejos",
+                "dentro",
+                "encima"
+            ]
+        },
+        {
+            "sentence": "Tenemos **que** **hacer** *comer* *dormir* *beber* la tarea.",
+            "correctWord": "hacer",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "beber"
+            ]
+        },
+        {
+            "sentence": "Después **de** **la** *el* *los* *las* clase, voy a casa.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "las"
+            ]
+        }
+    ],
+    "Sports and the Outdoors": [
+        {
+            "sentence": "Siempre me ha gustado la idea de *aprender* **idiomas** extranjeros, como el francés o el italiano.",
+            "correctWord": "aprender",
+            "incorrectWords": [
+                "comprar",
+                "comer",
+                "viajar"
+            ]
+        },
+        {
+            "sentence": "¿Qué *tipo* **de** recursos usas para mejorar tu pronunciación en español?",
+            "correctWord": "de",
+            "incorrectWords": [
+                "con",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Mi *objetivo* **principal** es hablar español con fluidez en un año.",
+            "correctWord": "principal",
+            "incorrectWords": [
+                "amarillo",
+                "grande",
+                "bajo"
+            ]
+        },
+        {
+            "sentence": "Es importante *practicar* **regularmente** para no olvidar lo que has aprendido.",
+            "correctWord": "regularmente",
+            "incorrectWords": [
+                "azul",
+                "ayer",
+                "mañana"
+            ]
+        },
+        {
+            "sentence": "En un *intercambio* **de** idiomas, puedes ayudar a otros mientras mejoras tus habilidades.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "para",
+                "desde",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Me *parece* **que** la gramática española es un poco difícil al principio.",
+            "correctWord": "que",
+            "incorrectWords": [
+                "para",
+                "por",
+                "si"
+            ]
+        },
+        {
+            "sentence": "¿Conoces algún *sitio* **web** bueno para practicar español con hablantes nativos?",
+            "correctWord": "web",
+            "incorrectWords": [
+                "libro",
+                "coche",
+                "agua"
+            ]
+        },
+        {
+            "sentence": "El español *es* **una** lengua muy hablada en todo el mundo.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "unos",
+                "las"
+            ]
+        },
+        {
+            "sentence": "Estoy *buscando* **un** compañero de intercambio para practicar mi inglés.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "una",
+                "el",
+                "los"
+            ]
+        },
+        {
+            "sentence": "La *mayoría* **de** las palabras en español son de origen latino.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "con",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Me *gusta* **escuchar** música en español para mejorar mi comprensión auditiva.",
+            "correctWord": "escuchar",
+            "incorrectWords": [
+                "comer",
+                "ver",
+                "dormir"
+            ]
+        },
+        {
+            "sentence": "Es *útil* **usar** tarjetas de memoria para aprender nuevo vocabulario.",
+            "correctWord": "usar",
+            "incorrectWords": [
+                "comprar",
+                "comer",
+                "escribir"
+            ]
+        },
+        {
+            "sentence": "Estoy *intentando* **aprender** español por mi cuenta, pero es difícil.",
+            "correctWord": "aprender",
+            "incorrectWords": [
+                "comer",
+                "viajar",
+                "saltar"
+            ]
+        },
+        {
+            "sentence": "Hay *muchas* **diferencias** entre el español de España y el de Latinoamérica.",
+            "correctWord": "diferencias",
+            "incorrectWords": [
+                "agua",
+                "casa",
+                "niños"
+            ]
+        },
+        {
+            "sentence": "Me *interesa* **la** cultura española, especialmente la comida y la música.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "unas"
+            ]
+        },
+        {
+            "sentence": "¿Cuál *es* **tu** lengua materna?",
+            "correctWord": "tu",
+            "incorrectWords": [
+                "mi",
+                "su",
+                "el"
+            ]
+        },
+        {
+            "sentence": "Prefiero *aprender* **idiomas** con aplicaciones en mi teléfono.",
+            "correctWord": "idiomas",
+            "incorrectWords": [
+                "casa",
+                "gato",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Es *importante* **tener** paciencia cuando aprendes una nueva lengua.",
+            "correctWord": "tener",
+            "incorrectWords": [
+                "ser",
+                "estar",
+                "hacer"
+            ]
+        },
+        {
+            "sentence": "¿Crees *que* **es** útil ver películas en español con subtítulos?",
+            "correctWord": "es",
+            "incorrectWords": [
+                "tiene",
+                "está",
+                "hace"
+            ]
+        },
+        {
+            "sentence": "Siempre *trato* **de** hablar en español tanto como sea posible.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "con",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Estoy *planeando* **viajar** a España para mejorar mi español.",
+            "correctWord": "viajar",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "El *español* **es** una lengua romance.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "tiene",
+                "está",
+                "hace"
+            ]
+        },
+        {
+            "sentence": "Aprendo *vocabulario* **nuevo** usando flashcards.",
+            "correctWord": "nuevo",
+            "incorrectWords": [
+                "azul",
+                "alto",
+                "cerca"
+            ]
+        },
+        {
+            "sentence": "Me *ayuda* **mucho** practicar con hablantes nativos.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "poco",
+                "azul",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Uso *un* **diccionario** online para buscar palabras que no conozco.",
+            "correctWord": "diccionario",
+            "incorrectWords": [
+                "casa",
+                "gato",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "A veces *es* **difícil** entender el acento de algunas regiones de España.",
+            "correctWord": "difícil",
+            "incorrectWords": [
+                "feliz",
+                "grande",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "El *aprendizaje* **de** un idioma es un proceso largo.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "con",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Es *importante* **la** motivación para seguir aprendiendo.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "unas"
+            ]
+        },
+        {
+            "sentence": "Intento *evitar* **traducir** cada palabra, sino entender el significado general.",
+            "correctWord": "traducir",
+            "incorrectWords": [
+                "comer",
+                "ver",
+                "dormir"
+            ]
+        },
+        {
+            "sentence": "Después *de* **unos** meses, ya puedo mantener conversaciones sencillas.",
+            "correctWord": "unos",
+            "incorrectWords": [
+                "un",
+                "la",
+                "el"
+            ]
+        }
+    ],
+    "Health and Healthcare": [
+        {
+            "sentence": "Normalmente, **comemos** *cantamos* *bailamos* *dormimos* la cena a las siete.",
+            "correctWord": "comemos",
+            "incorrectWords": [
+                "cantamos",
+                "bailamos",
+                "dormimos"
+            ]
+        },
+        {
+            "sentence": "Mi hermana siempre ayuda **con** *por* *desde* *a* las tareas de la casa.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "por",
+                "desde",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Tenemos un **gran** *pequeño* *feo* *verde* jardín detrás de la casa.",
+            "correctWord": "gran",
+            "incorrectWords": [
+                "pequeño",
+                "feo",
+                "verde"
+            ]
+        },
+        {
+            "sentence": "Me gusta leer **libros** *camisas* *manzanas* *coches* en mi habitación.",
+            "correctWord": "libros",
+            "incorrectWords": [
+                "camisas",
+                "manzanas",
+                "coches"
+            ]
+        },
+        {
+            "sentence": "Siempre limpio **mi** *el* *tus* *su* habitación los sábados.",
+            "correctWord": "mi",
+            "incorrectWords": [
+                "el",
+                "tus",
+                "su"
+            ]
+        },
+        {
+            "sentence": "Mi padre trabaja **en** *de* *a* *para* casa desde marzo.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "de",
+                "a",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Nosotros **miramos** *comemos* *bebemos* *corremos* la televisión juntos.",
+            "correctWord": "miramos",
+            "incorrectWords": [
+                "comemos",
+                "bebemos",
+                "corremos"
+            ]
+        },
+        {
+            "sentence": "La cocina es **blanca** *azul* *alto* *rápido* y muy luminosa.",
+            "correctWord": "blanca",
+            "incorrectWords": [
+                "azul",
+                "alto",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "A mi madre le gusta **cocinar** *cantar* *escribir* *nadar* para la familia.",
+            "correctWord": "cocinar",
+            "incorrectWords": [
+                "cantar",
+                "escribir",
+                "nadar"
+            ]
+        },
+        {
+            "sentence": "Hay una **mesa** *silla* *ventana* *cama* grande en el comedor.",
+            "correctWord": "mesa",
+            "incorrectWords": [
+                "silla",
+                "ventana",
+                "cama"
+            ]
+        },
+        {
+            "sentence": "Mi hermano lava **el** *la* *los* *las* coche cada domingo.",
+            "correctWord": "el",
+            "incorrectWords": [
+                "la",
+                "los",
+                "las"
+            ]
+        },
+        {
+            "sentence": "Preparo el desayuno **para** *de* *en* *por* mi familia cada mañana.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "de",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Tenemos dos **baños** *cocinas* *comedores* *dormitorios* en nuestra casa.",
+            "correctWord": "baños",
+            "incorrectWords": [
+                "cocinas",
+                "comedores",
+                "dormitorios"
+            ]
+        },
+        {
+            "sentence": "Siempre vamos **de** *a* *en* *por* vacaciones en verano.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Mi gato duerme **en** *de* *con* *por* el sofá todo el día.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "de",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Necesito comprar **más** *menos* *muy* *mucho* leche en el supermercado.",
+            "correctWord": "más",
+            "incorrectWords": [
+                "menos",
+                "muy",
+                "mucho"
+            ]
+        },
+        {
+            "sentence": "La casa es **muy** *poco* *nada* *siempre* cómoda y moderna.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "poco",
+                "nada",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Mi abuela vive **con** *en* *por* *de* nosotros desde el año pasado.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "en",
+                "por",
+                "de"
+            ]
+        },
+        {
+            "sentence": "Abrimos las ventanas **para** *en* *con* *de* que entre el aire fresco.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "en",
+                "con",
+                "de"
+            ]
+        },
+        {
+            "sentence": "Por la noche, **cerramos** *abrimos* *limpiamos* *lavamos* la puerta con llave.",
+            "correctWord": "cerramos",
+            "incorrectWords": [
+                "abrimos",
+                "limpiamos",
+                "lavamos"
+            ]
+        },
+        {
+            "sentence": "Tenemos muchas **plantas** *libros* *sillas* *puertas* en el balcón.",
+            "correctWord": "plantas",
+            "incorrectWords": [
+                "libros",
+                "sillas",
+                "puertas"
+            ]
+        },
+        {
+            "sentence": "A mis hijos les **gusta** *gustan* *gusto* *gustas* jugar en el jardín.",
+            "correctWord": "gusta",
+            "incorrectWords": [
+                "gustan",
+                "gusto",
+                "gustas"
+            ]
+        },
+        {
+            "sentence": "Mi familia es **importante** *divertido* *pequeño* *rápido* para mí.",
+            "correctWord": "importante",
+            "incorrectWords": [
+                "divertido",
+                "pequeño",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "Siempre celebramos **los** *la* *el* *las* cumpleaños en casa.",
+            "correctWord": "los",
+            "incorrectWords": [
+                "la",
+                "el",
+                "las"
+            ]
+        },
+        {
+            "sentence": "En invierno, **encendemos** *apagamos* *leemos* *comemos* la chimenea.",
+            "correctWord": "encendemos",
+            "incorrectWords": [
+                "apagamos",
+                "leemos",
+                "comemos"
+            ]
+        },
+        {
+            "sentence": "Mi casa está **cerca** *lejos* *dentro* *debajo* del parque.",
+            "correctWord": "cerca",
+            "incorrectWords": [
+                "lejos",
+                "dentro",
+                "debajo"
+            ]
+        },
+        {
+            "sentence": "Escucho música **mientras** *porque* *si* *cuando* hago la cena.",
+            "correctWord": "mientras",
+            "incorrectWords": [
+                "porque",
+                "si",
+                "cuando"
+            ]
+        },
+        {
+            "sentence": "Mi padre arregla **cosas** *personas* *animales* *lugares* en casa los fines de semana.",
+            "correctWord": "cosas",
+            "incorrectWords": [
+                "personas",
+                "animales",
+                "lugares"
+            ]
+        },
+        {
+            "sentence": "Todos **ayudamos** *ayuda* *ayudo* *ayudas* a mantener la casa limpia.",
+            "correctWord": "ayudamos",
+            "incorrectWords": [
+                "ayuda",
+                "ayudo",
+                "ayudas"
+            ]
+        },
+        {
+            "sentence": "Usamos la **lavadora** *nevera* *horno* *cama* para limpiar la ropa.",
+            "correctWord": "lavadora",
+            "incorrectWords": [
+                "nevera",
+                "horno",
+                "cama"
+            ]
+        }
+    ],
+    "Climate, Geography, and Urban Life": [
+        {
+            "sentence": "Vamos a organizar una fiesta de cumpleaños **para** **mis** amigos.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "en",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "La música **en** la fiesta fue muy animada y bailable.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Necesito comprar **muchas** **bebidas** para la fiesta del sábado.",
+            "correctWord": "muchas",
+            "incorrectWords": [
+                "poco",
+                "ningún",
+                "alguna"
+            ]
+        },
+        {
+            "sentence": "Ayer **asistí** **a** un concierto de mi grupo favorito.",
+            "correctWord": "asistí",
+            "incorrectWords": [
+                "visitó",
+                "comí",
+                "bailó"
+            ]
+        },
+        {
+            "sentence": "El pastel **de** **bodas** era muy grande y delicioso.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Mi hermana **siempre** **llega** tarde a las fiestas.",
+            "correctWord": "siempre",
+            "incorrectWords": [
+                "nunca",
+                "ayer",
+                "ahora"
+            ]
+        },
+        {
+            "sentence": "Me gusta **bailar** **con** mis amigos en las fiestas.",
+            "correctWord": "bailar",
+            "incorrectWords": [
+                "comer",
+                "beber",
+                "estudiar"
+            ]
+        },
+        {
+            "sentence": "La decoración **de** **la** fiesta era muy colorida.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Voy a **invitar** **a** todos mis compañeros de clase a mi fiesta.",
+            "correctWord": "invitar",
+            "incorrectWords": [
+                "visitar",
+                "cocinar",
+                "comer"
+            ]
+        },
+        {
+            "sentence": "La fiesta **empezó** **a** las ocho de la noche.",
+            "correctWord": "empezó",
+            "incorrectWords": [
+                "terminó",
+                "comió",
+                "durmió"
+            ]
+        },
+        {
+            "sentence": "Compré **globos** **y** serpentinas para decorar la sala.",
+            "correctWord": "globos",
+            "incorrectWords": [
+                "mesas",
+                "sillas",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "Fue **una** **noche** inolvidable en la discoteca.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "un",
+                "los"
+            ]
+        },
+        {
+            "sentence": "Estoy **muy** **emocionado** por la fiesta de fin de año.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "poco",
+                "nada",
+                "sin"
+            ]
+        },
+        {
+            "sentence": "Necesitamos **más** **sillas** para todos los invitados.",
+            "correctWord": "más",
+            "incorrectWords": [
+                "menos",
+                "ninguna",
+                "poco"
+            ]
+        },
+        {
+            "sentence": "La **banda** **tocó** música en vivo durante la cena.",
+            "correctWord": "banda",
+            "incorrectWords": [
+                "comida",
+                "bebida",
+                "persona"
+            ]
+        },
+        {
+            "sentence": "Recibí **muchos** **regalos** en mi cumpleaños.",
+            "correctWord": "muchos",
+            "incorrectWords": [
+                "poco",
+                "nada",
+                "ningún"
+            ]
+        },
+        {
+            "sentence": "El **DJ** **puso** música de todos los estilos.",
+            "correctWord": "DJ",
+            "incorrectWords": [
+                "chef",
+                "mesero",
+                "cantante"
+            ]
+        },
+        {
+            "sentence": "Preparamos **una** **lista** de reproducción para la fiesta.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "un",
+                "los"
+            ]
+        },
+        {
+            "sentence": "La gente **estaba** **contenta** y disfrutando de la celebración.",
+            "correctWord": "contenta",
+            "incorrectWords": [
+                "triste",
+                "aburrido",
+                "cansado"
+            ]
+        },
+        {
+            "sentence": "Después **de** **la** fiesta, limpiamos todo el desorden.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "La celebración **fue** **un** gran éxito.",
+            "correctWord": "fue",
+            "incorrectWords": [
+                "comió",
+                "bebió",
+                "estuvo"
+            ]
+        },
+        {
+            "sentence": "Nosotros **comimos** **mucho** pastel en el evento.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "poco",
+                "nada",
+                "alguno"
+            ]
+        },
+        {
+            "sentence": "Ella **llevaba** **un** vestido elegante para la gala.",
+            "correctWord": "llevaba",
+            "incorrectWords": [
+                "cantaba",
+                "bailaba",
+                "cocinaba"
+            ]
+        },
+        {
+            "sentence": "Hablamos **sobre** **la** importancia del festival.",
+            "correctWord": "sobre",
+            "incorrectWords": [
+                "en",
+                "a",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Todos **disfrutaron** **de** la cena en el restaurante.",
+            "correctWord": "disfrutaron",
+            "incorrectWords": [
+                "odiaron",
+                "ignoraron",
+                "perdieron"
+            ]
+        },
+        {
+            "sentence": "Mi familia **organizó** **una** reunión para celebrar el año nuevo.",
+            "correctWord": "organizó",
+            "incorrectWords": [
+                "destruyó",
+                "olvidó",
+                "ignoró"
+            ]
+        },
+        {
+            "sentence": "Mi amigo **trajo** **muchos** dulces a la fiesta.",
+            "correctWord": "trajo",
+            "incorrectWords": [
+                "comió",
+                "vendió",
+                "rompió"
+            ]
+        },
+        {
+            "sentence": "Esa **noche** **fue** divertida y especial.",
+            "correctWord": "noche",
+            "incorrectWords": [
+                "mañana",
+                "tarde",
+                "día"
+            ]
+        },
+        {
+            "sentence": "Los niños **jugaron** **en** la fiesta de cumpleaños.",
+            "correctWord": "jugaron",
+            "incorrectWords": [
+                "durmieron",
+                "comieron",
+                "trabajaron"
+            ]
+        },
+        {
+            "sentence": "Después, **fuimos** **a** un bar para seguir celebrando.",
+            "correctWord": "fuimos",
+            "incorrectWords": [
+                "dormimos",
+                "comimos",
+                "cantamos"
+            ]
+        }
+    ],
+    "Travel and Tourism": [
+        {
+            "sentence": "Por favor, ¿podrías ***ayudarme*** por llevar estas bolsas pesadas?",
+            "correctWord": "ayudarme",
+            "incorrectWords": [
+                "dormirme",
+                "venderme",
+                "cortarme"
+            ]
+        },
+        {
+            "sentence": "Muchas gracias por ***su*** amabilidad, es usted muy considerado.",
+            "correctWord": "su",
+            "incorrectWords": [
+                "al",
+                "la",
+                "mi"
+            ]
+        },
+        {
+            "sentence": "Con permiso, ¿puedo sentarme ***aquí***?",
+            "correctWord": "aquí",
+            "incorrectWords": [
+                "allá",
+                "nunca",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Disculpe, no quería ***molestarle***, solo preguntaba la hora.",
+            "correctWord": "molestarle",
+            "incorrectWords": [
+                "ignorarle",
+                "gustarle",
+                "conocerle"
+            ]
+        },
+        {
+            "sentence": "Tenga la bondad de ***esperar*** un momento, enseguida le atiendo.",
+            "correctWord": "esperar",
+            "incorrectWords": [
+                "comer",
+                "bailar",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "Le agradezco ***mucho*** su tiempo y su ayuda.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "poco",
+                "tarde",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "¿Le importaría ***cerrar*** la ventana, por favor? Hace frío.",
+            "correctWord": "cerrar",
+            "incorrectWords": [
+                "abrir",
+                "mirar",
+                "romper"
+            ]
+        },
+        {
+            "sentence": "Si no le es ***ninguna*** molestia, podría usted repetir eso.",
+            "correctWord": "ninguna",
+            "incorrectWords": [
+                "algo",
+                "mucha",
+                "cierta"
+            ]
+        },
+        {
+            "sentence": "Me gustaría ***presentarle*** a mi amigo Juan.",
+            "correctWord": "presentarle",
+            "incorrectWords": [
+                "buscarle",
+                "robarle",
+                "comprarle"
+            ]
+        },
+        {
+            "sentence": "Fue un placer ***conocerle***, espero verle pronto.",
+            "correctWord": "conocerle",
+            "incorrectWords": [
+                "perderle",
+                "odiarle",
+                "olvidarle"
+            ]
+        },
+        {
+            "sentence": "Por supuesto, ***puede*** usar mi teléfono si lo necesita.",
+            "correctWord": "puede",
+            "incorrectWords": [
+                "tengo",
+                "quiero",
+                "llevo"
+            ]
+        },
+        {
+            "sentence": "Con mucho ***gusto***, le ayudaré con eso.",
+            "correctWord": "gusto",
+            "incorrectWords": [
+                "miedo",
+                "prisa",
+                "dolor"
+            ]
+        },
+        {
+            "sentence": "Permítame ***ofrecerle*** una taza de café.",
+            "correctWord": "ofrecerle",
+            "incorrectWords": [
+                "quitarle",
+                "negarle",
+                "venderle"
+            ]
+        },
+        {
+            "sentence": "Lo siento, no era mi ***intención*** ofenderte.",
+            "correctWord": "intención",
+            "incorrectWords": [
+                "decisión",
+                "casa",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Perdone, no le ***entendí*** bien. ¿Podría repetir, por favor?",
+            "correctWord": "entendí",
+            "incorrectWords": [
+                "vi",
+                "toqué",
+                "comí"
+            ]
+        },
+        {
+            "sentence": "Le ruego que ***me*** disculpe por llegar tarde.",
+            "correctWord": "me",
+            "incorrectWords": [
+                "te",
+                "le",
+                "nos"
+            ]
+        },
+        {
+            "sentence": "Es muy amable ***de*** su parte ofrecerme ayuda.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "con",
+                "en",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Si no le importa, ***podríamos*** hablar en otro momento.",
+            "correctWord": "podríamos",
+            "incorrectWords": [
+                "vamos",
+                "fuimos",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "Le estaría muy ***agradecido*** si pudiera ayudarme.",
+            "correctWord": "agradecido",
+            "incorrectWords": [
+                "triste",
+                "cansado",
+                "contento"
+            ]
+        },
+        {
+            "sentence": "¿Sería tan ***amable*** de decirme dónde está la estación?",
+            "correctWord": "amable",
+            "incorrectWords": [
+                "lento",
+                "rápido",
+                "fácil"
+            ]
+        },
+        {
+            "sentence": "No se preocupe, no hay ***ningún*** problema.",
+            "correctWord": "ningún",
+            "incorrectWords": [
+                "algunos",
+                "muchos",
+                "toda"
+            ]
+        },
+        {
+            "sentence": "Tenga la ***amabilidad*** de cerrar la puerta al salir.",
+            "correctWord": "amabilidad",
+            "incorrectWords": [
+                "velocidad",
+                "hora",
+                "razón"
+            ]
+        },
+        {
+            "sentence": "Le pido ***disculpas*** por las molestias causadas.",
+            "correctWord": "disculpas",
+            "incorrectWords": [
+                "favores",
+                "consejos",
+                "premios"
+            ]
+        },
+        {
+            "sentence": "Con su ***permiso***, voy a pasar.",
+            "correctWord": "permiso",
+            "incorrectWords": [
+                "dinero",
+                "casa",
+                "tiempo"
+            ]
+        },
+        {
+            "sentence": "Le ***recomiendo*** que pruebe este plato, es delicioso.",
+            "correctWord": "recomiendo",
+            "incorrectWords": [
+                "odio",
+                "ignoro",
+                "olvido"
+            ]
+        },
+        {
+            "sentence": "Si no le parece ***mal***, me voy ahora.",
+            "correctWord": "mal",
+            "incorrectWords": [
+                "bien",
+                "grande",
+                "pequeño"
+            ]
+        },
+        {
+            "sentence": "No se ***preocupe***, yo me encargo de eso.",
+            "correctWord": "preocupe",
+            "incorrectWords": [
+                "duerma",
+                "coma",
+                "camine"
+            ]
+        },
+        {
+            "sentence": "Le sugiero ***que*** consulte con un experto.",
+            "correctWord": "que",
+            "incorrectWords": [
+                "de",
+                "el",
+                "la"
+            ]
+        },
+        {
+            "sentence": "Es ***cortés*** saludar al llegar a un lugar.",
+            "correctWord": "cortés",
+            "incorrectWords": [
+                "bueno",
+                "malo",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Por favor, sea ***puntual*** a la cita.",
+            "correctWord": "puntual",
+            "incorrectWords": [
+                "tarde",
+                "cansado",
+                "feliz"
+            ]
+        }
+    ],
+    "Fashion and Style": [
+        {
+            "sentence": "La *revolución*** francesa ocurrió en el siglo XVIII.",
+            "correctWord": "revolución",
+            "incorrectWords": [
+                "cantar",
+                "rápidamente",
+                "estudiar"
+            ]
+        },
+        {
+            "sentence": "Cristóbal Colón llegó **a*** América en 1492.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "para",
+                "con",
+                "de"
+            ]
+        },
+        {
+            "sentence": "Los *romanos*** construyeron muchas carreteras en Europa.",
+            "correctWord": "romanos",
+            "incorrectWords": [
+                "árboles",
+                "gatos",
+                "sillas"
+            ]
+        },
+        {
+            "sentence": "La Segunda Guerra Mundial *terminó*** en 1945.",
+            "correctWord": "terminó",
+            "incorrectWords": [
+                "comió",
+                "bailó",
+                "durmió"
+            ]
+        },
+        {
+            "sentence": "Egipto es famoso *por*** sus pirámides.",
+            "correctWord": "por",
+            "incorrectWords": [
+                "contra",
+                "sobre",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "La historia *es*** importante para entender el presente.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "corre",
+                "escribo",
+                "vender"
+            ]
+        },
+        {
+            "sentence": "Los mayas tenían un calendario **muy*** preciso.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "poco",
+                "uno",
+                "sí"
+            ]
+        },
+        {
+            "sentence": "La Edad Media fue un *periodo*** largo.",
+            "correctWord": "periodo",
+            "incorrectWords": [
+                "coche",
+                "zapato",
+                "ventana"
+            ]
+        },
+        {
+            "sentence": "Napoleón fue un *líder*** militar francés.",
+            "correctWord": "líder",
+            "incorrectWords": [
+                "libro",
+                "cama",
+                "agua"
+            ]
+        },
+        {
+            "sentence": "La *caída*** del Imperio Romano fue un evento importante.",
+            "correctWord": "caída",
+            "incorrectWords": [
+                "mesa",
+                "coche",
+                "plato"
+            ]
+        },
+        {
+            "sentence": "Muchos *documentos*** históricos están en los archivos.",
+            "correctWord": "documentos",
+            "incorrectWords": [
+                "manzanas",
+                "bicicletas",
+                "elefantes"
+            ]
+        },
+        {
+            "sentence": "La *batalla*** de Waterloo fue decisiva.",
+            "correctWord": "batalla",
+            "incorrectWords": [
+                "escuela",
+                "música",
+                "familia"
+            ]
+        },
+        {
+            "sentence": "La Revolución Industrial *cambió*** el mundo.",
+            "correctWord": "cambió",
+            "incorrectWords": [
+                "bebí",
+                "corrí",
+                "escribió"
+            ]
+        },
+        {
+            "sentence": "El *Renacimiento*** fue una época de arte y cultura.",
+            "correctWord": "Renacimiento",
+            "incorrectWords": [
+                "silla",
+                "zapato",
+                "lápiz"
+            ]
+        },
+        {
+            "sentence": "Los *griegos*** antiguos eran filósofos importantes.",
+            "correctWord": "griegos",
+            "incorrectWords": [
+                "mesas",
+                "rojas",
+                "pequeños"
+            ]
+        },
+        {
+            "sentence": "La historia nos *enseña*** muchas lecciones.",
+            "correctWord": "enseña",
+            "incorrectWords": [
+                "comemos",
+                "vivo",
+                "camino"
+            ]
+        },
+        {
+            "sentence": "La *independencia*** de México se celebró en 1810.",
+            "correctWord": "independencia",
+            "incorrectWords": [
+                "ventana",
+                "teléfono",
+                "leche"
+            ]
+        },
+        {
+            "sentence": "La *arqueología*** estudia el pasado.",
+            "correctWord": "arqueología",
+            "incorrectWords": [
+                "casa",
+                "perro",
+                "correr"
+            ]
+        },
+        {
+            "sentence": "Algunos reyes eran *muy*** poderosos.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "uno",
+                "poco",
+                "sí"
+            ]
+        },
+        {
+            "sentence": "La historia de *Roma*** es fascinante.",
+            "correctWord": "Roma",
+            "incorrectWords": [
+                "azul",
+                "árbol",
+                "rápidamente"
+            ]
+        },
+        {
+            "sentence": "Muchas *civilizaciones*** antiguas desaparecieron.",
+            "correctWord": "civilizaciones",
+            "incorrectWords": [
+                "perros",
+                "ventanas",
+                "platos"
+            ]
+        },
+        {
+            "sentence": "La *Primera*** Guerra Mundial fue terrible.",
+            "correctWord": "Primera",
+            "incorrectWords": [
+                "zapato",
+                "verde",
+                "correr"
+            ]
+        },
+        {
+            "sentence": "La *monarquía*** fue una forma de gobierno común.",
+            "correctWord": "monarquía",
+            "incorrectWords": [
+                "agua",
+                "lápiz",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "Los *aztecas*** construyeron Tenochtitlán.",
+            "correctWord": "aztecas",
+            "incorrectWords": [
+                "flores",
+                "amarillos",
+                "rápidos"
+            ]
+        },
+        {
+            "sentence": "La historia *de*** arte es muy interesante.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "en",
+                "con",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Los *museos*** tienen artefactos históricos.",
+            "correctWord": "museos",
+            "incorrectWords": [
+                "leche",
+                "comer",
+                "árbol"
+            ]
+        },
+        {
+            "sentence": "La *paz*** es importante en la historia.",
+            "correctWord": "paz",
+            "incorrectWords": [
+                "azul",
+                "correr",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "Los *historiadores*** estudian el pasado.",
+            "correctWord": "historiadores",
+            "incorrectWords": [
+                "coches",
+                "comer",
+                "ventanas"
+            ]
+        },
+        {
+            "sentence": "El *castillo*** medieval era una fortaleza.",
+            "correctWord": "castillo",
+            "incorrectWords": [
+                "mesa",
+                "comer",
+                "árbol"
+            ]
+        },
+        {
+            "sentence": "La historia nos *ayuda*** a entender el futuro.",
+            "correctWord": "ayuda",
+            "incorrectWords": [
+                "escribo",
+                "como",
+                "vivo"
+            ]
+        }
+    ],
+    "Art and Music": [
+        {
+            "sentence": "A veces, mis amigos y yo vamos al cine para ***buscar*** nuevas parejas.",
+            "correctWord": "buscar",
+            "incorrectWords": [
+                "permanecer",
+                "dar",
+                "viajar"
+            ]
+        },
+        {
+            "sentence": "Me encanta cuando alguien me sonríe ***durante*** una cita.",
+            "correctWord": "durante",
+            "incorrectWords": [
+                "contra",
+                "desde",
+                "sobre"
+            ]
+        },
+        {
+            "sentence": "Ella siempre está ***lista*** para una nueva aventura amorosa.",
+            "correctWord": "lista",
+            "incorrectWords": [
+                "cansada",
+                "aburrida",
+                "en"
+            ]
+        },
+        {
+            "sentence": "No quiero ***enamorarme*** demasiado rápido.",
+            "correctWord": "enamorarme",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "hablar"
+            ]
+        },
+        {
+            "sentence": "Mi mejor amigo me dio un ***consejo*** muy útil sobre relaciones.",
+            "correctWord": "consejo",
+            "incorrectWords": [
+                "problema",
+                "árbol",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Debemos hablar ***sobre*** nuestros sentimientos honestamente.",
+            "correctWord": "sobre",
+            "incorrectWords": [
+                "bajo",
+                "con",
+                "sin"
+            ]
+        },
+        {
+            "sentence": "Él está ***cansado*** de las citas a ciegas.",
+            "correctWord": "cansado",
+            "incorrectWords": [
+                "contento",
+                "cerca",
+                "azul"
+            ]
+        },
+        {
+            "sentence": "Quiero ***conocer*** a alguien con intereses similares.",
+            "correctWord": "conocer",
+            "incorrectWords": [
+                "comer",
+                "viajar",
+                "abrir"
+            ]
+        },
+        {
+            "sentence": "La primera cita fue en un ***restaurante*** muy romántico.",
+            "correctWord": "restaurante",
+            "incorrectWords": [
+                "libro",
+                "ventana",
+                "cielo"
+            ]
+        },
+        {
+            "sentence": "Tenemos que ***ser*** honestos con nosotros mismos sobre lo que queremos.",
+            "correctWord": "ser",
+            "incorrectWords": [
+                "comer",
+                "tener",
+                "ir"
+            ]
+        },
+        {
+            "sentence": "Mis amigos me animan a ***salir*** más.",
+            "correctWord": "salir",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "escribir"
+            ]
+        },
+        {
+            "sentence": "No sé ***qué*** ponerme para la cita.",
+            "correctWord": "qué",
+            "incorrectWords": [
+                "dónde",
+                "quién",
+                "cuándo"
+            ]
+        },
+        {
+            "sentence": "Ella siempre se ***ríe*** de mis chistes.",
+            "correctWord": "ríe",
+            "incorrectWords": [
+                "come",
+                "bebe",
+                "canta"
+            ]
+        },
+        {
+            "sentence": "El ***amor*** es complicado, pero hermoso.",
+            "correctWord": "amor",
+            "incorrectWords": [
+                "libro",
+                "mesa",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Después de la cita, me ***sentí*** muy feliz.",
+            "correctWord": "sentí",
+            "incorrectWords": [
+                "comí",
+                "bailé",
+                "abrí"
+            ]
+        },
+        {
+            "sentence": "Es ***importante*** tener amigos que te apoyen.",
+            "correctWord": "importante",
+            "incorrectWords": [
+                "pequeño",
+                "alto",
+                "verde"
+            ]
+        },
+        {
+            "sentence": "Voy a ir ***a*** una fiesta con mis amigos este fin de semana.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "por",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Mi amigo está ***preparando*** una sorpresa para su novia.",
+            "correctWord": "preparando",
+            "incorrectWords": [
+                "comiendo",
+                "durmiendo",
+                "escribiendo"
+            ]
+        },
+        {
+            "sentence": "Ella no quiere ***casarse*** todavía.",
+            "correctWord": "casarse",
+            "incorrectWords": [
+                "comer",
+                "beber",
+                "abrir"
+            ]
+        },
+        {
+            "sentence": "La ***conversación*** fue muy interesante.",
+            "correctWord": "conversación",
+            "incorrectWords": [
+                "ventana",
+                "silla",
+                "cielo"
+            ]
+        },
+        {
+            "sentence": "Necesito hablar ***con*** mis amigos sobre mi relación.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "de",
+                "para",
+                "sin"
+            ]
+        },
+        {
+            "sentence": "Él es un hombre ***amable*** y divertido.",
+            "correctWord": "amable",
+            "incorrectWords": [
+                "triste",
+                "alto",
+                "verde"
+            ]
+        },
+        {
+            "sentence": "Quiero encontrar ***alguien*** que me entienda.",
+            "correctWord": "alguien",
+            "incorrectWords": [
+                "nada",
+                "todos",
+                "mucho"
+            ]
+        },
+        {
+            "sentence": "Mis amigos siempre me dan ***ánimo***.",
+            "correctWord": "ánimo",
+            "incorrectWords": [
+                "coche",
+                "libro",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "Ella ***quiere*** viajar con su pareja.",
+            "correctWord": "quiere",
+            "incorrectWords": [
+                "come",
+                "duerme",
+                "escribe"
+            ]
+        },
+        {
+            "sentence": "Vamos al parque ***después*** de la cena.",
+            "correctWord": "después",
+            "incorrectWords": [
+                "antes",
+                "durante",
+                "contra"
+            ]
+        },
+        {
+            "sentence": "Me gusta ir ***al*** cine con mis amigos.",
+            "correctWord": "al",
+            "incorrectWords": [
+                "en",
+                "a la",
+                "del"
+            ]
+        },
+        {
+            "sentence": "Mi amigo tiene mucho ***miedo*** de las citas.",
+            "correctWord": "miedo",
+            "incorrectWords": [
+                "hambre",
+                "sed",
+                "sueño"
+            ]
+        },
+        {
+            "sentence": "Es importante ***respetar*** las opiniones de los demás.",
+            "correctWord": "respetar",
+            "incorrectWords": [
+                "comer",
+                "dormir",
+                "abrir"
+            ]
+        },
+        {
+            "sentence": "Nosotros estamos ***juntos*** desde hace cinco años.",
+            "correctWord": "juntos",
+            "incorrectWords": [
+                "tristes",
+                "lejos",
+                "verdes"
+            ]
+        }
+    ],
+    "Books and Literature": [
+        {
+            "sentence": "Yo quiero comer **_una_** pizza grande esta noche.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "el",
+                "unos",
+                "un"
+            ]
+        },
+        {
+            "sentence": "Mi madre siempre cocina con mucho **_amor_**.",
+            "correctWord": "amor",
+            "incorrectWords": [
+                "triste",
+                "frío",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "El restaurante sirve **_platos_** deliciosos.",
+            "correctWord": "platos",
+            "incorrectWords": [
+                "caminos",
+                "rojos",
+                "ayer"
+            ]
+        },
+        {
+            "sentence": "Ella prefiere el té **_sin_** azúcar.",
+            "correctWord": "sin",
+            "incorrectWords": [
+                "con",
+                "para",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "Vamos a **_comprar_** frutas frescas en el mercado.",
+            "correctWord": "comprar",
+            "incorrectWords": [
+                "dormir",
+                "pintar",
+                "escribir"
+            ]
+        },
+        {
+            "sentence": "Me gusta el pan **_con_** mantequilla y mermelada.",
+            "correctWord": "con",
+            "incorrectWords": [
+                "en",
+                "por",
+                "entre"
+            ]
+        },
+        {
+            "sentence": "¿Quieres **_probar_** mi pastel de chocolate?",
+            "correctWord": "probar",
+            "incorrectWords": [
+                "mirar",
+                "leer",
+                "correr"
+            ]
+        },
+        {
+            "sentence": "La ensalada tiene **_muchas_** verduras diferentes.",
+            "correctWord": "muchas",
+            "incorrectWords": [
+                "poco",
+                "grande",
+                "solo"
+            ]
+        },
+        {
+            "sentence": "Yo cocino la pasta **_para_** mi familia.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "a",
+                "de",
+                "sobre"
+            ]
+        },
+        {
+            "sentence": "El café está **_muy_** caliente.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "poco",
+                "nunca",
+                "ayer"
+            ]
+        },
+        {
+            "sentence": "Necesito **_un_** vaso de agua.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "la",
+                "unos",
+                "él"
+            ]
+        },
+        {
+            "sentence": "Comemos **_pescado_** al horno los viernes.",
+            "correctWord": "pescado",
+            "incorrectWords": [
+                "árbol",
+                "música",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Me encanta **_comer_** helado en el verano.",
+            "correctWord": "comer",
+            "incorrectWords": [
+                "viajar",
+                "bailar",
+                "estudiar"
+            ]
+        },
+        {
+            "sentence": "El pollo está **_en_** el horno.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "por",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "Preparo la cena **_después_** del trabajo.",
+            "correctWord": "después",
+            "incorrectWords": [
+                "antes",
+                "nunca",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Me gusta el **_sabor_** de la canela.",
+            "correctWord": "sabor",
+            "incorrectWords": [
+                "color",
+                "tiempo",
+                "lugar"
+            ]
+        },
+        {
+            "sentence": "Ella bebe jugo **_de_** naranja en el desayuno.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Vamos a **_pedir_** comida china.",
+            "correctWord": "pedir",
+            "incorrectWords": [
+                "buscar",
+                "vivir",
+                "cerrar"
+            ]
+        },
+        {
+            "sentence": "El arroz está **_bien_** cocido.",
+            "correctWord": "bien",
+            "incorrectWords": [
+                "mal",
+                "tarde",
+                "ahora"
+            ]
+        },
+        {
+            "sentence": "Quiero una **_taza_** de té, por favor.",
+            "correctWord": "taza",
+            "incorrectWords": [
+                "libro",
+                "silla",
+                "coche"
+            ]
+        },
+        {
+            "sentence": "Ayer, yo **_comí_** mucha pizza.",
+            "correctWord": "comí",
+            "incorrectWords": [
+                "soy",
+                "estoy",
+                "tengo"
+            ]
+        },
+        {
+            "sentence": "Necesito **_sal_** para la sopa.",
+            "correctWord": "sal",
+            "incorrectWords": [
+                "cielo",
+                "luz",
+                "casa"
+            ]
+        },
+        {
+            "sentence": "Ella **_añade_** azúcar al café.",
+            "correctWord": "añade",
+            "incorrectWords": [
+                "canta",
+                "piensa",
+                "corre"
+            ]
+        },
+        {
+            "sentence": "El vino es **_de_** España.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "en",
+                "con",
+                "a"
+            ]
+        },
+        {
+            "sentence": "La tarta es **_muy_** dulce.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "poco",
+                "nunca",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "Tenemos **_mucho_** pan en casa.",
+            "correctWord": "mucho",
+            "incorrectWords": [
+                "poco",
+                "nunca",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "El restaurante está **_cerca_** del hotel.",
+            "correctWord": "cerca",
+            "incorrectWords": [
+                "lejos",
+                "nunca",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "Quiero beber **_agua_** fría.",
+            "correctWord": "agua",
+            "incorrectWords": [
+                "cielo",
+                "luz",
+                "casa"
+            ]
+        },
+        {
+            "sentence": "El postre **_es_** delicioso.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "estoy",
+                "tengo",
+                "soy"
+            ]
+        },
+        {
+            "sentence": "Necesito **_comprar_** más leche.",
+            "correctWord": "comprar",
+            "incorrectWords": [
+                "vendo",
+                "tengo",
+                "soy"
+            ]
+        }
+    ],
+    "Movies and Shows": [
+        {
+            "sentence": "La *iglesia* **tiene** un papel importante en la sociedad, pero no debe controlar la política.",
+            "correctWord": "tiene",
+            "incorrectWords": [
+                "es",
+                "parece",
+                "viaja"
+            ]
+        },
+        {
+            "sentence": "Algunas personas creen que la religión debe *influir* **en** las decisiones políticas.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "para",
+                "con",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "La *separación* **entre** la iglesia y el estado es fundamental para la democracia.",
+            "correctWord": "entre",
+            "incorrectWords": [
+                "sobre",
+                "durante",
+                "según"
+            ]
+        },
+        {
+            "sentence": "En muchos *países* **se** debate sobre la enseñanza de la religión en las escuelas.",
+            "correctWord": "se",
+            "incorrectWords": [
+                "lo",
+                "le",
+                "me"
+            ]
+        },
+        {
+            "sentence": "Los *líderes* **religiosos** a menudo expresan sus opiniones sobre temas políticos importantes.",
+            "correctWord": "religiosos",
+            "incorrectWords": [
+                "grandes",
+                "pequeños",
+                "rojos"
+            ]
+        },
+        {
+            "sentence": "La *libertad* **de** religión es un derecho humano básico.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Es importante *respetar* **las** creencias religiosas de los demás, incluso si no las compartes.",
+            "correctWord": "las",
+            "incorrectWords": [
+                "el",
+                "los",
+                "un"
+            ]
+        },
+        {
+            "sentence": "La *ética* **religiosa** puede influir en las leyes y políticas de un país.",
+            "correctWord": "religiosa",
+            "incorrectWords": [
+                "grande",
+                "pequeña",
+                "azul"
+            ]
+        },
+        {
+            "sentence": "Hay *grupos* **políticos** que utilizan la religión para ganar apoyo.",
+            "correctWord": "políticos",
+            "incorrectWords": [
+                "altos",
+                "bajos",
+                "verdes"
+            ]
+        },
+        {
+            "sentence": "El *estado* **laico** debe ser neutral en materia religiosa.",
+            "correctWord": "laico",
+            "incorrectWords": [
+                "feliz",
+                "triste",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "Algunos *partidos* **políticos** tienen bases religiosas fuertes.",
+            "correctWord": "políticos",
+            "incorrectWords": [
+                "grandes",
+                "pequeños",
+                "azules"
+            ]
+        },
+        {
+            "sentence": "La *interpretación* **de** textos religiosos puede ser diferente entre diversas personas.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "en",
+                "con",
+                "por"
+            ]
+        },
+        {
+            "sentence": "La *religión* **y** la política a menudo se entrelazan en la historia.",
+            "correctWord": "y",
+            "incorrectWords": [
+                "o",
+                "pero",
+                "porque"
+            ]
+        },
+        {
+            "sentence": "Es crucial *mantener* **un** diálogo abierto sobre religión y política.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "la",
+                "el",
+                "los"
+            ]
+        },
+        {
+            "sentence": "La *tolerancia* **religiosa** es esencial para una sociedad pacífica.",
+            "correctWord": "religiosa",
+            "incorrectWords": [
+                "grande",
+                "pequeña",
+                "nueva"
+            ]
+        },
+        {
+            "sentence": "Los *conflictos* **religiosos** a veces tienen raíces políticas.",
+            "correctWord": "religiosos",
+            "incorrectWords": [
+                "grandes",
+                "pequeños",
+                "rojos"
+            ]
+        },
+        {
+            "sentence": "La *fe* **puede** inspirar acciones políticas para el bien común.",
+            "correctWord": "puede",
+            "incorrectWords": [
+                "es",
+                "tiene",
+                "gusta"
+            ]
+        },
+        {
+            "sentence": "La *política* **debe** ser justa para todos, independientemente de su religión.",
+            "correctWord": "debe",
+            "incorrectWords": [
+                "es",
+                "tiene",
+                "gusta"
+            ]
+        },
+        {
+            "sentence": "Algunos *gobiernos* **favorecen** una religión sobre otras.",
+            "correctWord": "favorecen",
+            "incorrectWords": [
+                "son",
+                "están",
+                "tienen"
+            ]
+        },
+        {
+            "sentence": "El *derecho* **a** la objeción de conciencia es importante para la libertad religiosa.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "de",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "La *ética* **de** una religión puede influir en la política exterior.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Muchos *ciudadanos* **votan** basándose en sus valores religiosos.",
+            "correctWord": "votan",
+            "incorrectWords": [
+                "son",
+                "están",
+                "tienen"
+            ]
+        },
+        {
+            "sentence": "La *iglesia* **no** debe imponer sus creencias a la sociedad.",
+            "correctWord": "no",
+            "incorrectWords": [
+                "sí",
+                "si",
+                "ya"
+            ]
+        },
+        {
+            "sentence": "Los *políticos* **a** menudo buscan el apoyo de líderes religiosos.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "de",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "El *pluralismo* **religioso** enriquece la sociedad, pero también presenta desafíos políticos.",
+            "correctWord": "religioso",
+            "incorrectWords": [
+                "grande",
+                "pequeño",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Es importante *evitar* **el** fanatismo religioso en la política.",
+            "correctWord": "el",
+            "incorrectWords": [
+                "la",
+                "los",
+                "las"
+            ]
+        },
+        {
+            "sentence": "Las *minorías* **religiosas** a menudo necesitan protección política.",
+            "correctWord": "religiosas",
+            "incorrectWords": [
+                "grandes",
+                "pequeñas",
+                "altas"
+            ]
+        },
+        {
+            "sentence": "La *religión* **puede** ser una fuente de esperanza y consuelo, pero también de división.",
+            "correctWord": "puede",
+            "incorrectWords": [
+                "es",
+                "tiene",
+                "gusta"
+            ]
+        },
+        {
+            "sentence": "La *política* **social** a menudo está influenciada por valores religiosos.",
+            "correctWord": "social",
+            "incorrectWords": [
+                "grande",
+                "pequeña",
+                "roja"
+            ]
+        },
+        {
+            "sentence": "Es crucial *entender* **cómo** la religión influye en la política en diferentes culturas.",
+            "correctWord": "cómo",
+            "incorrectWords": [
+                "dónde",
+                "cuándo",
+                "cuánto"
+            ]
+        }
+    ],
+    "Plants and Animals": [
+        {
+            "sentence": "Me gusta **visitar** *comer* *escribir* *dormir* a mis abuelos durante las vacaciones de Navidad.",
+            "correctWord": "visitar",
+            "incorrectWords": [
+                "comer",
+                "escribir",
+                "dormir"
+            ]
+        },
+        {
+            "sentence": "Vamos **a** *en* *para* *con* la playa todos los días durante el verano.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "para",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Mi familia siempre hace un **viaje** *casa* *coche* *libro* grande en julio.",
+            "correctWord": "viaje",
+            "incorrectWords": [
+                "casa",
+                "coche",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "El hotel era muy **cómodo** *lento* *alto* *triste* y limpio.",
+            "correctWord": "cómodo",
+            "incorrectWords": [
+                "lento",
+                "alto",
+                "triste"
+            ]
+        },
+        {
+            "sentence": "Siempre **compro** *vuelvo* *vivo* *soy* recuerdos para mis amigos cuando estoy de vacaciones.",
+            "correctWord": "compro",
+            "incorrectWords": [
+                "vuelvo",
+                "vivo",
+                "soy"
+            ]
+        },
+        {
+            "sentence": "Me encanta nadar **en** *por* *sobre* *contra* el mar cuando hace calor.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "por",
+                "sobre",
+                "contra"
+            ]
+        },
+        {
+            "sentence": "Las montañas son un **lugar** *hora* *vez* *año* perfecto para esquiar.",
+            "correctWord": "lugar",
+            "incorrectWords": [
+                "hora",
+                "vez",
+                "año"
+            ]
+        },
+        {
+            "sentence": "La comida en Italia es muy **deliciosa** *rápida* *aburrida* *tarde*.",
+            "correctWord": "deliciosa",
+            "incorrectWords": [
+                "rápida",
+                "aburrida",
+                "tarde"
+            ]
+        },
+        {
+            "sentence": "Nosotros **vamos** *tenemos* *somos* *estamos* a ir de camping la próxima semana.",
+            "correctWord": "vamos",
+            "incorrectWords": [
+                "tenemos",
+                "somos",
+                "estamos"
+            ]
+        },
+        {
+            "sentence": "Me gusta **tomar** *dar* *hacer* *ser* fotos de los paisajes bonitos.",
+            "correctWord": "tomar",
+            "incorrectWords": [
+                "dar",
+                "hacer",
+                "ser"
+            ]
+        },
+        {
+            "sentence": "El avión **llega** *canta* *duerme* *piensa* a las cinco de la tarde.",
+            "correctWord": "llega",
+            "incorrectWords": [
+                "canta",
+                "duerme",
+                "piensa"
+            ]
+        },
+        {
+            "sentence": "Siempre empaco mi **maleta** *cama* *mesa* *puerta* un día antes de salir.",
+            "correctWord": "maleta",
+            "incorrectWords": [
+                "cama",
+                "mesa",
+                "puerta"
+            ]
+        },
+        {
+            "sentence": "Es importante **tener** *mirar* *estudiar* *creer* un pasaporte válido para viajar.",
+            "correctWord": "tener",
+            "incorrectWords": [
+                "mirar",
+                "estudiar",
+                "creer"
+            ]
+        },
+        {
+            "sentence": "Me encanta **explorar** *cocinar* *caminar* *leer* nuevas culturas cuando viajo.",
+            "correctWord": "explorar",
+            "incorrectWords": [
+                "cocinar",
+                "caminar",
+                "leer"
+            ]
+        },
+        {
+            "sentence": "Siempre busco **ofertas** *sillas* *ventanas* *manos* para viajes baratos.",
+            "correctWord": "ofertas",
+            "incorrectWords": [
+                "sillas",
+                "ventanas",
+                "manos"
+            ]
+        },
+        {
+            "sentence": "La playa estaba **llena** *bajo* *verde* *roja* de gente durante las vacaciones.",
+            "correctWord": "llena",
+            "incorrectWords": [
+                "bajo",
+                "verde",
+                "roja"
+            ]
+        },
+        {
+            "sentence": "Quiero aprender **a** *de* *con* *desde* bucear en mis vacaciones.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "de",
+                "con",
+                "desde"
+            ]
+        },
+        {
+            "sentence": "Prefiero **quedarme** *despertarme* *comer* *bailar* en casa durante las fiestas.",
+            "correctWord": "quedarme",
+            "incorrectWords": [
+                "despertarme",
+                "comer",
+                "bailar"
+            ]
+        },
+        {
+            "sentence": "Necesito **reservar** *buscar* *ver* *escuchar* un billete de tren para el viaje.",
+            "correctWord": "reservar",
+            "incorrectWords": [
+                "buscar",
+                "ver",
+                "escuchar"
+            ]
+        },
+        {
+            "sentence": "El guía turístico **habla** *corre* *salta* *camina* muy bien inglés.",
+            "correctWord": "habla",
+            "incorrectWords": [
+                "corre",
+                "salta",
+                "camina"
+            ]
+        },
+        {
+            "sentence": "Me gusta relajarme **en** *por* *para* *a* la piscina durante mis vacaciones.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "por",
+                "para",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Visitamos un **museo** *coche* *árbol* *libro* interesante en la ciudad.",
+            "correctWord": "museo",
+            "incorrectWords": [
+                "coche",
+                "árbol",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "La ciudad es **famosa** *pequeño* *nuevo* *viejo* por su arquitectura.",
+            "correctWord": "famosa",
+            "incorrectWords": [
+                "pequeño",
+                "nuevo",
+                "viejo"
+            ]
+        },
+        {
+            "sentence": "Podemos **ir** *dar* *ser* *estar* de excursión en las montañas.",
+            "correctWord": "ir",
+            "incorrectWords": [
+                "dar",
+                "ser",
+                "estar"
+            ]
+        },
+        {
+            "sentence": "Necesito comprar **protector** *zapato* *agua* *aire* solar para la playa.",
+            "correctWord": "protector",
+            "incorrectWords": [
+                "zapato",
+                "agua",
+                "aire"
+            ]
+        },
+        {
+            "sentence": "Voy **a** *en* *de* *por* visitar a mis padres este verano.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "de",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Siempre compro **postales** *camisas* *zapatos* *sombreros* para mi familia.",
+            "correctWord": "postales",
+            "incorrectWords": [
+                "camisas",
+                "zapatos",
+                "sombreros"
+            ]
+        },
+        {
+            "sentence": "El parque temático es muy **divertido** *triste* *aburrido* *serio* para los niños.",
+            "correctWord": "divertido",
+            "incorrectWords": [
+                "triste",
+                "aburrido",
+                "serio"
+            ]
+        },
+        {
+            "sentence": "Me gusta escuchar **música** *comida* *agua* *libro* latina cuando estoy de vacaciones.",
+            "correctWord": "música",
+            "incorrectWords": [
+                "comida",
+                "agua",
+                "libro"
+            ]
+        },
+        {
+            "sentence": "Me encanta comer **helado** *pan* *arroz* *sopa* cuando hace mucho calor.",
+            "correctWord": "helado",
+            "incorrectWords": [
+                "pan",
+                "arroz",
+                "sopa"
+            ]
+        }
+    ],
+    "The Internet": [
+        {
+            "sentence": "Algunas personas creen que los fantasmas pueden **_estar_** _en casas antiguas.",
+            "correctWord": "estar",
+            "incorrectWords": [
+                "tener",
+                "ir",
+                "hacer"
+            ]
+        },
+        {
+            "sentence": "La leyenda de El Dorado _es_ _una_ **_historia_** _de_ _una_ _ciudad_ _de_ _oro.",
+            "correctWord": "historia",
+            "incorrectWords": [
+                "cantar",
+                "agua",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "En muchos cuentos, los dragones _son_ **_criaturas_** _poderosas_ _y_ _mágicas.",
+            "correctWord": "criaturas",
+            "incorrectWords": [
+                "comer",
+                "ayer",
+                "debajo"
+            ]
+        },
+        {
+            "sentence": "¿Has **_oído_** _hablar_ _alguna_ _vez_ _del_ _monstruo_ _del_ _lago_ _Ness? ",
+            "correctWord": "oído",
+            "incorrectWords": [
+                "comer",
+                "azul",
+                "cerca"
+            ]
+        },
+        {
+            "sentence": "Se **_dice_** _que_ _algunos_ _lugares_ _están_ _encantados_ _con_ _espíritus.",
+            "correctWord": "dice",
+            "incorrectWords": [
+                "silla",
+                "mesa",
+                "debajo"
+            ]
+        },
+        {
+            "sentence": "Muchas culturas **_tienen_** _mitos_ _sobre_ _la_ _creación_ _del_ _mundo.",
+            "correctWord": "tienen",
+            "incorrectWords": [
+                "azul",
+                "ir",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "El chupacabras _es_ _un_ _ser_ _mítico_ _que_ _ataca_ **_al_** _ganado.",
+            "correctWord": "al",
+            "incorrectWords": [
+                "del",
+                "en",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Algunas personas **_usan_** _amuletos_ _para_ _protegerse_ _de_ _las_ _malas_ _energías.",
+            "correctWord": "usan",
+            "incorrectWords": [
+                "agua",
+                "cantar",
+                "azul"
+            ]
+        },
+        {
+            "sentence": "Los ovnis _son_ _objetos_ **_voladores_** _no_ _identificados.",
+            "correctWord": "voladores",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "¿Crees _en_ **_la_** _existencia_ _de_ _la_ _telequinesis?",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "a"
+            ]
+        },
+        {
+            "sentence": "Los hombres _lobo_ **_son_** _parte_ _de_ _muchas_ _leyendas_ _europeas.",
+            "correctWord": "son",
+            "incorrectWords": [
+                "mesa",
+                "azul",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "Se _cuentan_ _historias_ **_sobre_** _casas_ _abandonadas_ _con_ _presencia_ _paranormal.",
+            "correctWord": "sobre",
+            "incorrectWords": [
+                "mesa",
+                "azul",
+                "de"
+            ]
+        },
+        {
+            "sentence": "Algunos _dicen_ _que_ _pueden_ **_comunicarse_** _con_ _los_ _espíritus.",
+            "correctWord": "comunicarse",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "El mito _de_ **_la_** _medusa_ _es_ _muy_ _conocido.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "un",
+                "en"
+            ]
+        },
+        {
+            "sentence": "Muchas _personas_ _sienten_ **_miedo_** _a_ _la_ _oscuridad_ _por_ _miedo_ _a_ _lo_ _desconocido.",
+            "correctWord": "miedo",
+            "incorrectWords": [
+                "mesa",
+                "azul",
+                "cantar"
+            ]
+        },
+        {
+            "sentence": "Los _vampiros_ **_se_** _alimentan_ _de_ _sangre_ _en_ _muchas_ _leyendas.",
+            "correctWord": "se",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "La _gente_ _cree_ _que_ _hay_ **_lugares_** _con_ _mucha_ _energía_ _negativa.",
+            "correctWord": "lugares",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Se _dice_ _que_ _los_ _gatos_ **_negros_** _traen_ _mala_ _suerte.",
+            "correctWord": "negros",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Algunas _personas_ **_ven_** _fantasmas_ _en_ _sus_ _sueños.",
+            "correctWord": "ven",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "¿Has _visto_ _alguna_ _vez_ **_una_** _película_ _de_ _terror_ _sobre_ _posesiones?",
+            "correctWord": "una",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Ciertos _objetos_ **_antiguos_** _parecen_ _tener_ _una_ _historia_ _detrás.",
+            "correctWord": "antiguos",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "En _algunas_ _culturas,_ **_los_** _espíritus_ _de_ _los_ _ancestros_ _son_ _venerados.",
+            "correctWord": "los",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Algunos _creen_ _en_ **_la_** _reencarnación_ _después_ _de_ _la_ _muerte.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Mucha _gente_ _consulta_ _a_ **_videntes_** _para_ _conocer_ _su_ _futuro.",
+            "correctWord": "videntes",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "La **_parálisis_** _del_ _sueño_ _puede_ _ser_ _una_ _experiencia_ _aterradora.",
+            "correctWord": "parálisis",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Algunas _personas_ **_creen_** _en_ _las_ _energías_ _que_ _emiten_ _los_ _cristales.",
+            "correctWord": "creen",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Se _dice_ _que_ **_las_** _pirámides_ _tienen_ _poderes_ _místicos.",
+            "correctWord": "las",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Ciertos _ritos_ _religiosos_ **_buscan_** _ahuyentar_ _a_ _los_ _espíritus_ _malignos.",
+            "correctWord": "buscan",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Algunos _objetos_ _parecen_ **_estar_** _malditos_ _por_ _alguna_ _razón.",
+            "correctWord": "estar",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        },
+        {
+            "sentence": "Las _historias_ **_de_** _duendes_ _son_ _comunes_ _en_ _el_ _folklore_ _irlandés.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "azul",
+                "cantar",
+                "mesa"
+            ]
+        }
+    ],
+    "Technology": [
+        {
+            "sentence": "Me gusta mucho **la** **bailar**, especialmente la salsa.",
+            "correctWord": "bailar",
+            "incorrectWords": [
+                "al",
+                "de",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Mi pasatiempo favorito es **la** **fotografía**; siempre llevo mi cámara.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "las"
+            ]
+        },
+        {
+            "sentence": "Cada domingo, me encanta **ir** **en** bicicleta por el parque.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "para"
+            ]
+        },
+        {
+            "sentence": "Mi hermano disfruta **jugando** **al** ajedrez en su tiempo libre.",
+            "correctWord": "al",
+            "incorrectWords": [
+                "de",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "A mi abuela le encanta **el** **tejer** bufandas para toda la familia.",
+            "correctWord": "tejer",
+            "incorrectWords": [
+                "teje",
+                "tejiendo",
+                "tejía"
+            ]
+        },
+        {
+            "sentence": "Muchos jóvenes prefieren **escuchar** **música** en sus teléfonos.",
+            "correctWord": "música",
+            "incorrectWords": [
+                "canción",
+                "melodía",
+                "sonido"
+            ]
+        },
+        {
+            "sentence": "A Sofía le apasiona **pintar** **paisajes** con acuarelas.",
+            "correctWord": "paisajes",
+            "incorrectWords": [
+                "pinturas",
+                "retratos",
+                "dibujos"
+            ]
+        },
+        {
+            "sentence": "Después del trabajo, me relajo **leyendo** **un** buen libro.",
+            "correctWord": "un",
+            "incorrectWords": [
+                "la",
+                "el",
+                "unos"
+            ]
+        },
+        {
+            "sentence": "Nosotros amamos **jugar** **a** videojuegos los fines de semana.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "en",
+                "por",
+                "con"
+            ]
+        },
+        {
+            "sentence": "Ella está **aprendiendo** **a** tocar el piano.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "de",
+                "por",
+                "en"
+            ]
+        },
+        {
+            "sentence": "¿Te gusta **hacer** **ejercicio** en el gimnasio?",
+            "correctWord": "ejercicio",
+            "incorrectWords": [
+                "deporte",
+                "gimnasia",
+                "actividad"
+            ]
+        },
+        {
+            "sentence": "Mi padre colecciona **sellos** **antiguos** de todo el mundo.",
+            "correctWord": "antiguos",
+            "incorrectWords": [
+                "nuevos",
+                "modernos",
+                "grandes"
+            ]
+        },
+        {
+            "sentence": "Nosotros participamos **en** **un** club de lectura.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "para"
+            ]
+        },
+        {
+            "sentence": "A ellos les encanta **viajar** **por** Europa en tren.",
+            "correctWord": "por",
+            "incorrectWords": [
+                "a",
+                "en",
+                "de"
+            ]
+        },
+        {
+            "sentence": "Mi hermana es **muy** **buena** en la cocina.",
+            "correctWord": "buena",
+            "incorrectWords": [
+                "malo",
+                "mal",
+                "peor"
+            ]
+        },
+        {
+            "sentence": "Después de **cenar**, **nosotros** vemos una película.",
+            "correctWord": "nosotros",
+            "incorrectWords": [
+                "yo",
+                "él",
+                "tú"
+            ]
+        },
+        {
+            "sentence": "Yo disfruto **mucho** **de** caminar por la playa.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Ella es **una** **apasionada** de la jardinería.",
+            "correctWord": "apasionada",
+            "incorrectWords": [
+                "apasionado",
+                "aburrida",
+                "cansada"
+            ]
+        },
+        {
+            "sentence": "A mi gato le **gusta** **cazar** ratones en el jardín.",
+            "correctWord": "cazar",
+            "incorrectWords": [
+                "casa",
+                "come",
+                "duerme"
+            ]
+        },
+        {
+            "sentence": "¿Te interesa **aprender** **otro** idioma?",
+            "correctWord": "otro",
+            "incorrectWords": [
+                "uno",
+                "mismo",
+                "ninguno"
+            ]
+        },
+        {
+            "sentence": "Ella dedica **mucho** **tiempo** a su hobbie.",
+            "correctWord": "tiempo",
+            "incorrectWords": [
+                "día",
+                "semana",
+                "mes"
+            ]
+        },
+        {
+            "sentence": "Él es **un** **experto** en la pesca deportiva.",
+            "correctWord": "experto",
+            "incorrectWords": [
+                "principiante",
+                "aficionado",
+                "novato"
+            ]
+        },
+        {
+            "sentence": "Nos reunimos **cada** **semana** para jugar al bridge.",
+            "correctWord": "semana",
+            "incorrectWords": [
+                "día",
+                "mes",
+                "año"
+            ]
+        },
+        {
+            "sentence": "A mí me **encanta** **hornear** galletas para mis amigos.",
+            "correctWord": "hornear",
+            "incorrectWords": [
+                "comprar",
+                "comer",
+                "vender"
+            ]
+        },
+        {
+            "sentence": "El bordado es **un** **arte** muy antiguo.",
+            "correctWord": "arte",
+            "incorrectWords": [
+                "deporte",
+                "ciencia",
+                "materia"
+            ]
+        },
+        {
+            "sentence": "Mi hobby es **coleccionar** **monedas** antiguas.",
+            "correctWord": "monedas",
+            "incorrectWords": [
+                "sellos",
+                "billetes",
+                "fotos"
+            ]
+        },
+        {
+            "sentence": "A ella le gusta **leer** **poesía** antes de dormir.",
+            "correctWord": "poesía",
+            "incorrectWords": [
+                "novelas",
+                "cuentos",
+                "periódicos"
+            ]
+        },
+        {
+            "sentence": "Mi padre disfruta **construyendo** **modelos** de barcos.",
+            "correctWord": "modelos",
+            "incorrectWords": [
+                "dibujos",
+                "fotos",
+                "pinturas"
+            ]
+        },
+        {
+            "sentence": "Siempre encuentro **paz** **en** la naturaleza.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "por"
+            ]
+        },
+        {
+            "sentence": "Vamos a **la** **montaña** a hacer senderismo este fin de semana.",
+            "correctWord": "montaña",
+            "incorrectWords": [
+                "playa",
+                "ciudad",
+                "casa"
+            ]
+        }
+    ],
+    "Spaces and Physics": [
+        {
+            "sentenceString": "Me gusta *ir* **nadar** al lago durante el verano.",
+            "correctWord": "a",
+            "incorrectWords": [
+                "por",
+                "con",
+                "en"
+            ]
+        },
+        {
+            "sentenceString": "Ella siempre *lleva* **protector** solar cuando va de excursión.",
+            "correctWord": "protector",
+            "incorrectWords": [
+                "protege",
+                "protección",
+                "proteger"
+            ]
+        },
+        {
+            "sentenceString": "Nosotros *estamos* **jugando** al fútbol en el parque ahora.",
+            "correctWord": "jugando",
+            "incorrectWords": [
+                "jugar",
+                "juego",
+                "jugado"
+            ]
+        },
+        {
+            "sentenceString": "Prefiero *andar* **en** bicicleta que correr.",
+            "correctWord": "en",
+            "incorrectWords": [
+                "a",
+                "de",
+                "por"
+            ]
+        },
+        {
+            "sentenceString": "Ellos *han* **escalado** una montaña muy alta.",
+            "correctWord": "escalado",
+            "incorrectWords": [
+                "escalar",
+                "escalada",
+                "escalas"
+            ]
+        },
+        {
+            "sentenceString": "El *equipo* **ganó** el partido de baloncesto ayer.",
+            "correctWord": "ganó",
+            "incorrectWords": [
+                "gana",
+                "ganar",
+                "ganando"
+            ]
+        },
+        {
+            "sentenceString": "Necesitamos *comprar* **una** tienda de campaña nueva.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "un",
+                "unos",
+                "unas"
+            ]
+        },
+        {
+            "sentenceString": "Me *encanta* **la** naturaleza y los animales.",
+            "correctWord": "la",
+            "incorrectWords": [
+                "el",
+                "los",
+                "las"
+            ]
+        },
+        {
+            "sentenceString": "Vamos *a* **hacer** un picnic en el bosque.",
+            "correctWord": "hacer",
+            "incorrectWords": [
+                "hace",
+                "hecho",
+                "haciendo"
+            ]
+        },
+        {
+            "sentenceString": "Él *es* **muy** bueno jugando al tenis.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "mucho",
+                "mucha",
+                "muchos"
+            ]
+        },
+        {
+            "sentenceString": "La *playa* **está** cerca de mi casa.",
+            "correctWord": "está",
+            "incorrectWords": [
+                "estar",
+                "estoy",
+                "son"
+            ]
+        },
+        {
+            "sentenceString": "Siempre *llevo* **mi** botella de agua cuando hago ejercicio.",
+            "correctWord": "mi",
+            "incorrectWords": [
+                "mí",
+                "mis",
+                "me"
+            ]
+        },
+        {
+            "sentenceString": "El *río* **es** muy limpio aquí.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "estar",
+                "son",
+                "ser"
+            ]
+        },
+        {
+            "sentenceString": "Voy *a* **aprender** a surfear este verano.",
+            "correctWord": "aprender",
+            "incorrectWords": [
+                "aprendo",
+                "aprendí",
+                "aprendiendo"
+            ]
+        },
+        {
+            "sentenceString": "Ella *tiene* **miedo** a las alturas.",
+            "correctWord": "miedo",
+            "incorrectWords": [
+                "miedosa",
+                "miedoso",
+                "miedos"
+            ]
+        },
+        {
+            "sentenceString": "Nosotros *estamos* **cansados** después de la caminata.",
+            "correctWord": "cansados",
+            "incorrectWords": [
+                "cansado",
+                "cansada",
+                "cansadas"
+            ]
+        },
+        {
+            "sentenceString": "Me *gusta* **pescar** en el lago.",
+            "correctWord": "pescar",
+            "incorrectWords": [
+                "pesca",
+                "pescado",
+                "pescando"
+            ]
+        },
+        {
+            "sentenceString": "Ellos *van* **de** camping cada año.",
+            "correctWord": "de",
+            "incorrectWords": [
+                "a",
+                "en",
+                "por"
+            ]
+        },
+        {
+            "sentenceString": "Necesito *comprar* **nuevos** zapatos para correr.",
+            "correctWord": "nuevos",
+            "incorrectWords": [
+                "nuevo",
+                "nueva",
+                "nuevas"
+            ]
+        },
+        {
+            "sentenceString": "El *viento* **es** fuerte hoy.",
+            "correctWord": "es",
+            "incorrectWords": [
+                "estar",
+                "son",
+                "ser"
+            ]
+        },
+        {
+            "sentenceString": "Voy *a* **ver** un partido de fútbol el sábado.",
+            "correctWord": "ver",
+            "incorrectWords": [
+                "veo",
+                "vi",
+                "viendo"
+            ]
+        },
+        {
+            "sentenceString": "Ella *está* **aprendiendo** a esquiar.",
+            "correctWord": "aprendiendo",
+            "incorrectWords": [
+                "aprender",
+                "aprendí",
+                "aprende"
+            ]
+        },
+        {
+            "sentenceString": "Nosotros *hicimos* **una** fogata en la playa.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "un",
+                "unos",
+                "unas"
+            ]
+        },
+        {
+            "sentenceString": "Me *gusta* **el** ciclismo de montaña.",
+            "correctWord": "el",
+            "incorrectWords": [
+                "la",
+                "los",
+                "las"
+            ]
+        },
+        {
+            "sentenceString": "Ellos *son* **muy** deportistas.",
+            "correctWord": "muy",
+            "incorrectWords": [
+                "mucho",
+                "mucha",
+                "muchos"
+            ]
+        },
+        {
+            "sentenceString": "Siempre *llevo* **una** brújula cuando exploro.",
+            "correctWord": "una",
+            "incorrectWords": [
+                "un",
+                "unos",
+                "unas"
+            ]
+        },
+        {
+            "sentenceString": "El *agua* **del** mar está fría.",
+            "correctWord": "del",
+            "incorrectWords": [
+                "de la",
+                "de el",
+                "al"
+            ]
+        },
+        {
+            "sentenceString": "Voy *a* **alquilar** una canoa para el fin de semana.",
+            "correctWord": "alquilar",
+            "incorrectWords": [
+                "alquilo",
+                "alquilé",
+                "alquilando"
+            ]
+        },
+        {
+            "sentenceString": "Ella *es* **buena** en el senderismo.",
+            "correctWord": "buena",
+            "incorrectWords": [
+                "bueno",
+                "buenos",
+                "buenas"
+            ]
+        },
+        {
+            "sentenceString": "Nosotros *vimos* **muchos** pájaros en el bosque.",
+            "correctWord": "muchos",
+            "incorrectWords": [
+                "mucho",
+                "mucha",
+                "muchas"
+            ]
+        }
+    ],
+    "Self-care and Growth": [
+        {
+            "sentence": "Necesito ir al médico porque tengo **dolor** en el estómago.",
+            "correctWord": "dolor",
+            "incorrectWords": [
+                "verde",
+                "dormir",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Mi abuela **toma** medicina para la presión arterial alta.",
+            "correctWord": "toma",
+            "incorrectWords": [
+                "zapato",
+                "canta",
+                "como"
+            ]
+        },
+        {
+            "sentence": "Es importante lavarse las manos **antes** de comer.",
+            "correctWord": "antes",
+            "incorrectWords": [
+                "casa",
+                "rojo",
+                "nunca"
+            ]
+        },
+        {
+            "sentence": "El hospital está **cerca** de mi casa.",
+            "correctWord": "cerca",
+            "incorrectWords": [
+                "mucho",
+                "frío",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "Ella se siente **mejor** después de descansar.",
+            "correctWord": "mejor",
+            "incorrectWords": [
+                "lunes",
+                "lluvia",
+                "feo"
+            ]
+        },
+        {
+            "sentence": "Debes comer **frutas** y verduras todos los días.",
+            "correctWord": "frutas",
+            "incorrectWords": [
+                "libro",
+                "siempre",
+                "azul"
+            ]
+        },
+        {
+            "sentence": "Tengo una **cita** con el dentista la semana que viene.",
+            "correctWord": "cita",
+            "incorrectWords": [
+                "mesa",
+                "triste",
+                "escribo"
+            ]
+        },
+        {
+            "sentence": "El enfermero **midió** mi temperatura.",
+            "correctWord": "midió",
+            "incorrectWords": [
+                "coche",
+                "vive",
+                "puerta"
+            ]
+        },
+        {
+            "sentence": "Necesito un **vendaje** para mi herida.",
+            "correctWord": "vendaje",
+            "incorrectWords": [
+                "plato",
+                "sale",
+                "simpático"
+            ]
+        },
+        {
+            "sentence": "Hacer ejercicio es bueno **para** la salud.",
+            "correctWord": "para",
+            "incorrectWords": [
+                "cuando",
+                "gato",
+                "porque"
+            ]
+        },
+        {
+            "sentence": "La tos puede ser un **síntoma** de un resfriado.",
+            "correctWord": "síntoma",
+            "incorrectWords": [
+                "canto",
+                "ventana",
+                "estudio"
+            ]
+        },
+        {
+            "sentence": "Debo beber mucha **agua** cuando estoy enfermo.",
+            "correctWord": "agua",
+            "incorrectWords": [
+                "alto",
+                "corro",
+                "zapato"
+            ]
+        },
+        {
+            "sentence": "La gripe es muy **contagiosa**.",
+            "correctWord": "contagiosa",
+            "incorrectWords": [
+                "camisa",
+                "canto",
+                "después"
+            ]
+        },
+        {
+            "sentence": "El médico me **recomendó** reposo.",
+            "correctWord": "recomendó",
+            "incorrectWords": [
+                "lunes",
+                "casa",
+                "llamo"
+            ]
+        },
+        {
+            "sentence": "Es importante mantener una dieta **equilibrada**.",
+            "correctWord": "equilibrada",
+            "incorrectWords": [
+                "camino",
+                "leo",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Yo fui al **hospital** ayer.",
+            "correctWord": "hospital",
+            "incorrectWords": [
+                "triste",
+                "azul",
+                "comida"
+            ]
+        },
+        {
+            "sentence": "El doctor me dio una **receta** para antibióticos.",
+            "correctWord": "receta",
+            "incorrectWords": [
+                "tarde",
+                "canto",
+                "puerta"
+            ]
+        },
+        {
+            "sentence": "Después de la operación, necesita **recuperación**.",
+            "correctWord": "recuperación",
+            "incorrectWords": [
+                "canto",
+                "alto",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "La clínica está **abierta** de lunes a viernes.",
+            "correctWord": "abierta",
+            "incorrectWords": [
+                "canto",
+                "tarde",
+                "luego"
+            ]
+        },
+        {
+            "sentence": "Necesito un seguro **médico**.",
+            "correctWord": "médico",
+            "incorrectWords": [
+                "casa",
+                "rápido",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "La vitamina C es buena para el **sistema** inmunológico.",
+            "correctWord": "sistema",
+            "incorrectWords": [
+                "feo",
+                "verde",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Tienes que evitar el **estrés**.",
+            "correctWord": "estrés",
+            "incorrectWords": [
+                "canto",
+                "puerta",
+                "luego"
+            ]
+        },
+        {
+            "sentence": "Debes dormir ocho **horas** cada noche.",
+            "correctWord": "horas",
+            "incorrectWords": [
+                "tarde",
+                "siempre",
+                "rápido"
+            ]
+        },
+        {
+            "sentence": "El farmacéutico **dispensó** la medicina.",
+            "correctWord": "dispensó",
+            "incorrectWords": [
+                "lunes",
+                "alto",
+                "canto"
+            ]
+        },
+        {
+            "sentence": "La fisioterapia ayuda con la **movilidad**.",
+            "correctWord": "movilidad",
+            "incorrectWords": [
+                "luego",
+                "feo",
+                "grande"
+            ]
+        },
+        {
+            "sentence": "Estoy muy **enfermo**, necesito ayuda.",
+            "correctWord": "enfermo",
+            "incorrectWords": [
+                "siempre",
+                "puerta",
+                "alto"
+            ]
+        },
+        {
+            "sentence": "Practicar yoga puede mejorar tu **salud** mental.",
+            "correctWord": "salud",
+            "incorrectWords": [
+                "mesa",
+                "luego",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Los ancianos necesitan **cuidado**.",
+            "correctWord": "cuidado",
+            "incorrectWords": [
+                "mesa",
+                "alto",
+                "mucho"
+            ]
+        },
+        {
+            "sentence": "La ambulancia llegó **rápidamente** a la escena.",
+            "correctWord": "rápidamente",
+            "incorrectWords": [
+                "mesa",
+                "luego",
+                "siempre"
+            ]
+        },
+        {
+            "sentence": "Es **necesario** programar una cita.",
+            "correctWord": "necesario",
+            "incorrectWords": [
+                "mesa",
+                "luego",
+                "siempre"
+            ]
+        }
+    ]
+}
