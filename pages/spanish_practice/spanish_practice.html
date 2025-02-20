@@ -176,9 +176,10 @@
         }
 
         function setGameOptions() {
-			loadSentences(gameState.selectedDifficulty);  // Load the sentences (ideally call this when the page loads)
+			
             gameState.selectedSentenceCount = parseInt(document.getElementById('sentenceCount').value);
             gameState.selectedDifficulty = document.getElementById('difficulty').value;
+			loadSentences(gameState.selectedDifficulty);  // Load the sentences (ideally call this when the page loads)
 			gameState.sentenceBank = loadSentences(gameState.selectedDifficulty);
             startGame();
         }
