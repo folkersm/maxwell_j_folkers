@@ -61,7 +61,14 @@
 				options: incorrect
 			};
 		}
-		
+		let gameState = {
+            currentIndex: 0,
+            score: 0,
+            selectedSentenceCount: 20,
+            selectedDifficulty: "A2",
+            selectedQuestions: []
+        };
+
 		difficulty_to_filename = {"A1":'./a1_sentences.json',"A2":'./a2_sentences.json',"B1":'./B1_sentences.json',"B2":'./B2_sentences.json',"C1":'./C1_sentences.json',"C2":'./c2_sentences.json'}
 		// Example usage
 		loadSentences(gameState.selectedDifficulty);  // Load the sentences (ideally call this when the page loads)
@@ -74,14 +81,6 @@
 				console.log('Incorrect Words:', randomSentence.incorrectWords);
 			}
 		}, 1000);  // Wait a second for the sentences to load before calling getRandomSentence
-
-        let gameState = {
-            currentIndex: 0,
-            score: 0,
-            selectedSentenceCount: 20,
-            selectedDifficulty: "A2",
-            selectedQuestions: []
-        };
 
         function startGame() {
             gameState.currentIndex = 0;
