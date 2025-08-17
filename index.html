@@ -3,46 +3,66 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background: white;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        img {
-            width: 150px;
-            border-radius: 50%;
-        }
-    </style>
+    <title>Max Folkers</title>
+    <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Website</h1>
+    <header class="header">
+      <div class="container nav">
+        <div class="brand">Max Folkers</div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="pages/projects.html">Projects</a></li>
+            <li><a href="mailto:folkersm@gmail.com">Contact</a></li>
+            <li><a href="https://www.linkedin.com/in/maxwell-folkers-847bba225/" target="_blank" rel="noopener">LinkedIn</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
-    <div class="container">
-        <img src="profile.jpg" alt="Profile Picture">
-        <h2>Max Folkers</h2>
-        <p>Hello! I'm a software developer. I develop video games and language learning apps. This is my personal website where I share a little about myself.</p>
-        <h3>Contact</h3>
-        <p>Email: folkersm@gmail.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/maxwell-folkers-847bba225/">Maxwell's LinkedIn</a></p>
-        <h2>Games</h2>
-        <p> <a color = "red" href="pages/spanish_games/spanish_practice/spanish_practice.html">Play a spanish learning game!</a> </p>
-        <p> <a color = "green" href = "pages/godot_game/my2dgame.html">simple dodge the sprites game</a></p>
-</body>
+
+    <main class="container">
+      <section class="hero">
+        <img class="avatar" src="profile.jpg" alt="Profile picture of Max Folkers">
+        <div>
+          <h1>Developer focused on games and learning tools</h1>
+          <p>I build video games and language learning apps. Explore some highlights below, or view all on the projects page.</p>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Featured</h2>
+        <div class="grid">
+          <a class="card" href="pages/spanish_games/spanish_practice/spanish_practice.html">
+            <h3>Spanish Practice</h3>
+            <p>Interactive learning tool for Spanish practice.</p>
+            <div class="tags">
+              <span class="tag cyan">Learning Tool</span>
+            </div>
+          </a>
+          <a class="card" href="pages/spanish_games/conjugation_game/conjugation_game.html">
+            <h3>Conjugation Game</h3>
+            <p>Practice verb conjugations through a simple game.</p>
+            <div class="tags">
+              <span class="tag cyan">Learning Tool</span>
+            </div>
+          </a>
+          <a class="card" href="pages/godot_game/my2dgame.html">
+            <h3>Dodge the Sprites</h3>
+            <p>A lightweight Godot game. Avoid obstacles and survive.</p>
+            <div class="tags">
+              <span class="tag violet">Game</span>
+            </div>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">© <span id="year"></span> Max Folkers</div>
+    </footer>
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
 

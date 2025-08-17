@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>CSV Data Example</title>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f9fc;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    h4, p {
+      text-align: center;
+      margin: 1em;
+      font-size: 1.5em;
+      padding: 1em;
+      border-radius: 2em;
+      background-color: #ffffff;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      width: 80%;
+      max-width: 600px;
+    }
+
+    .checkbox-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1em;
+      margin-bottom: 2em;
+    }
+
+    label {
+      background-color: #e0e7ff;
+      padding: 0.6em 1em;
+      border-radius: 1.5em;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      cursor: pointer;
+      font-size: 1em;
+    }
+
+    input[type="checkbox"] {
+      margin-right: 0.4em;
+      transform: scale(1.2);
+    }
+
+    button {
+      background-color: #a5b4fc;
+      border: none;
+      padding: 1em 2em;
+      margin: 0.5em;
+      border-radius: 2em;
+      font-size: 1.2em;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+      transition: background-color 0.2s;
+    }
+
+    button:hover {
+      background-color: #818cf8;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="checkbox-container">
+    <label><input type="checkbox" id="present_checkbox" checked> present</label>
+    <label><input type="checkbox" id="future_checkbox" checked> future</label>
+    <label><input type="checkbox" id="imperfect_checkbox" checked> imperfect</label>
+    <label><input type="checkbox" id="preterite_checkbox" checked> preterite</label>
+    <label><input type="checkbox" id="conditional_checkbox" checked> conditional</label>
+    <label><input type="checkbox" id="subjunctive_checkbox" checked> subjunctive</label>
+    <label><input type="checkbox" id="indicative_checkbox" checked> indicative</label>
+    <label><input type="checkbox" id="imperative_checkbox" checked> imperative</label>
+    <label><input type="checkbox" id="perfect_checkbox" checked> perfect</label>
+  </div>
+<div style="display: flex; gap: 1em;">
+  <h4 id="infinitive" style="color: red;">Prompt will go here</h4>
+  <h4 id="mood" style="color: blue;">Prompt will go here</h4>
+  <h4 id="tense" style="color: green;">Prompt will go here</h4>
+  <h4 id="form" style="color: purple;">Prompt will go here</h4>
+</div>
+
+
+  <div>
+    <button onclick="reveal_answer(0)">idk</button>
+    <button onclick="reveal_answer(1)">know</button>
+    <button id="next_button" onclick="print_data_at()">next word</button>
+  </div>
+
+  <p id="answer">Answer will show here</p>
+  <script>
+    const forms = ["first person singular", "second person singular", "third person singular", "first person plural","second person plural","third person plural"];
+    const mood_tenses = {"present":[0,5,10,13],"future":[1,6,12,14],"imperfect":[2, 11],"preterite":[3,7,8],"conditional":[4,9], "subjunctive":[10,11,12,13,14,15], 
+                            "indicative":[0,1,2,3,4,5,6,7,8,9],"imperative":[16,17], "perfect":[5,6,7,8,9,13,14,15],}
+    const checkbox_options = Object.keys(mood_tenses);
+    const csvUrl = 'jehle_verb_database.csv'; 
+    var valid_indicies = [];
+    var database;
+    var word_loc = 0;
+    var database_size = 637; //18 entries per word = 11466
+    var answer = "";
+    generate_valid_indicies();
+    Papa.parse(csvUrl, { // Papa.parse(url, 'a map type data structure with the following variables and functions')
+      download: true, // i think this , well i don't know , i guess it might be whether the file is stored in local memory or accessed in place.
+      header: true, // header, this is essentially asking whether it should remove the first line, or count it as a header for organizaiton purposes
+      complete: function(results) {
+        database = results.data;
+        print_data_at();
+      },
+      error: function(err) {
+        console.error('CSV loading error:', err);
+      }
+    });
+    function generate_valid_indicies() {
+        valid_indicies = [];
+        let imperatives = false;
+        let base_indicies = [];
+        let other_indicies = [];
+
+        for (let element of ["subjunctive", "indicative", "imperative"]){
+            let id = element + "_checkbox";
+            let checked = document.getElementById(id).checked;
+            if (checked) {
+                base_indicies.push(...mood_tenses[element]);
+            }
+        };
+        for (let i of [0,1,2,3,4]) {
+            if (document.getElementById(checkbox_options[i] + "_checkbox").checked) {
+                other_indicies.push(...mood_tenses[checkbox_options[i]]);
+            }
+        }
+        let map = new Map();
+        if (!document.getElementById("perfect_checkbox").checked) {
+        for (const num of mood_tenses["perfect"]) {
+        map.set(num, (map.get(num) || 0) + 10);
+        }
+        }
+        for (const num of base_indicies) {
+        map.set(num, (map.get(num) || 0) + 1);
+        }
+
+        for (const num of other_indicies) {
+        map.set(num, (map.get(num) || 0) + 1);
+        }
+
+        let common = [];
+        for (const [key, value] of map.entries()) {
+        if ((value%10 === 2 && value/10<1) || (key > 15 && value>0)) {
+            common.push(key);
+        }
+        }
+
+        console.log(common);
+        valid_indicies = common;
+    }
+
+
+    function reveal_answer(val) {
+        document.getElementById('next_button').hidden = false;
+        generate_valid_indicies();
+        document.getElementById("answer").textContent = answer;
+        let next_ind = Math.floor(Math.random()*database_size)*18+1;
+        let offset = valid_indicies[Math.floor(Math.random()*valid_indicies.length)]
+        word_loc = next_ind + offset;
+        console.log(next_ind, offset);
+    }
+
+    function print_data_at() {
+        document.getElementById('next_button').hidden = true;
+        document.getElementById('answer').textContent = "";
+        let val = database[word_loc];
+        let tense = val["tense"];
+        let mood = val["mood"];
+        let answers = [val.form_1s,val.form_2s,val.form_3s,val.form_1p,val.form_2p,val.form_3p];
+        let ndex = Math.floor(Math.random()*6);
+        answer = answers[ndex];
+        let form = forms[ndex]
+        while(answer=="") {
+            ndex = Math.floor(Math.random()*6)
+            answer = answers[ndex];
+            form = forms[ndex]
+        }
+        document.getElementById('mood').textContent = mood;
+        document.getElementById('tense').textContent = tense;
+        document.getElementById('form').textContent = form;
+        document.getElementById('infinitive').textContent = val["infinitive"];
+
+
+    }
+  </script>
+</body>
+</html>

@@ -1,23 +1,76 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title>
-My projects
-</title>
-<link rel = "stylesheet", href = "style.css">
-</head>
-<body>
-<p>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects • Max Folkers</title>
+    <link rel="stylesheet" href="../styles/main.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container nav">
+        <div class="brand">Max Folkers</div>
+        <nav>
+          <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="mailto:folkersm@gmail.com">Contact</a></li>
+            <li><a href="https://www.linkedin.com/in/maxwell-folkers-847bba225/" target="_blank" rel="noopener">LinkedIn</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
 
-<li>
-<ol> representation of sentiment analysis project. maybe include another financial analysis app.
-</ol>
-<ol>
-representation of 2 different games, one that uses ai text generation.
-</ol>
-<ol>
-2 different ai uses, highlighting popular frameworks used, include a compression </ol>
-</li>
-</p>
-</body>
+    <main class="container">
+      <section class="section">
+        <h2>Learning Tools</h2>
+        <div class="grid">
+          <a class="card" href="spanish_games/spanish_practice/spanish_practice.html">
+            <h3>Spanish Practice</h3>
+            <p>Interactive practice for Spanish vocabulary and basics.</p>
+            <div class="tags">
+              <span class="tag cyan">Learning Tool</span>
+            </div>
+          </a>
+          <a class="card" href="spanish_games/conjugation_game/conjugation_game.html">
+            <h3>Conjugation Game</h3>
+            <p>Drill verb conjugations in a quick, game-like format.</p>
+            <div class="tags">
+              <span class="tag cyan">Learning Tool</span>
+            </div>
+          </a>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Games</h2>
+        <div class="grid">
+          <a class="card" href="godot_game/my2dgame.html">
+            <h3>Dodge the Sprites</h3>
+            <p>Godot-based mini game focused on quick reflexes.</p>
+            <div class="tags">
+              <span class="tag violet">Game</span>
+            </div>
+          </a>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Other Projects</h2>
+        <div class="grid">
+          <div class="card">
+            <h3>Coming soon</h3>
+            <p>More projects and write-ups will be added here.</p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container">© <span id="year"></span> Max Folkers</div>
+    </footer>
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+  </body>
 </html>
